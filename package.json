@@ -1,0 +1,20 @@
+{
+  "name": "changeset-adiffs-worker",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler deploy --keep-vars",
+    "build": "wrangler deploy --outdir dist --dry-run",
+    "test": "tape tests/index.js"
+  },
+  "dependencies": {
+    "@osmcha/osm-adiff-parser": "^3.0.0"
+  },
+  "devDependencies": {
+    "tape": "^5.9.0",
+    "typescript": "^5.7.3",
+    "wrangler": "^3.109.0"
+  }
+}

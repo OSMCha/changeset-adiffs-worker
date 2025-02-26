@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "lib": ["esnext"],
+    "types": ["./.wrangler/types/runtime"]
+  }
+}
