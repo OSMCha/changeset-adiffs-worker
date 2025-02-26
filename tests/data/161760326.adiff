@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="osmcha" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+  <action type="delete">
+    <old>
+      <node id="5835317443" version="1" user="kmborzage" uid="8693536" timestamp="2018-08-15T23:58:39Z" changeset="61699903" lon="-121.0605039" lat="38.912868">
+        <tag k="leisure" v="park"/>
+      </node>
+    </old>
+    <new>
+      <node id="5835317443" version="2" timestamp="2025-01-25T20:32:01Z" uid="8794039" user="jake-low" changeset="161760326" lat="38.912868" lon="-121.0605039" visible="false"/>
+    </new>
+  </action>
+</osm>

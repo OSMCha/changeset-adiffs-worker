@@ -1,0 +1,39 @@
+{
+  "highway": [
+    "trailhead",
+    "unclassified",
+    "path"
+  ],
+  "name": [
+    "Dorothy Lake Trailhead",
+    "Dorothy Lake Trail",
+    "Lake Dorothy Trail"
+  ],
+  "operator": [
+    "US Forest Service"
+  ],
+  "website": [
+    "https://www.fs.usda.gov/recarea/mbs/recarea/?recid=80197"
+  ],
+  "motor_vehicle": [
+    "no"
+  ],
+  "note": [
+    "road closed to vehicles due to washouts"
+  ],
+  "alt_name": [
+    "Dorothy Lake"
+  ],
+  "natural": [
+    "water"
+  ],
+  "barrier": [
+    "debris"
+  ],
+  "amenity": [
+    "toilets"
+  ],
+  "building": [
+    "yes"
+  ]
+}

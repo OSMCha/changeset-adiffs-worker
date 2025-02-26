@@ -1,0 +1,82 @@
+{
+  "ele": [
+    "20",
+    "37",
+    "65",
+    "47",
+    "66",
+    "53",
+    "82",
+    "88",
+    "40",
+    "25",
+    "73"
+  ],
+  "gnis:feature_id": [
+    "224259",
+    "1666272",
+    "1666282",
+    "1666319",
+    "1666333",
+    "1666357",
+    "1666360",
+    "1819758",
+    "1819968",
+    "1819980",
+    "1819989",
+    "1820353",
+    "1666248"
+  ],
+  "leisure": [
+    "park",
+    "nature_reserve"
+  ],
+  "name": [
+    "River Bend Park",
+    "Crosswoods Park",
+    "Fair Oaks Park",
+    "Mont View Park",
+    "Pecan Park",
+    "Spruce Park",
+    "Sundance Park",
+    "Del Campo Park",
+    "Palisades Park",
+    "Steeplechase Mini Park",
+    "Willow Creek Recreation Area",
+    "Countryside Park",
+    "O’Donnell Heritage Park",
+    "Waterford Park"
+  ],
+  "contact:facebook": [
+    "https://facebook.com/100063656135840"
+  ],
+  "contact:instagram": [
+    "carmichaelrec"
+  ],
+  "contact:twitter": [
+    "Carmichael_Rec"
+  ],
+  "opening_hours": [
+    "24/7"
+  ],
+  "operator": [
+    "Carmichael Recreation and Park District"
+  ],
+  "website": [
+    "https://www.carmichaelpark.com/parks"
+  ],
+  "note": [
+    "part of Folsom Lake State Recreation Area (not actually a separate park, but has a distinct name)"
+  ],
+  "boundary": [
+    "protected_area",
+    "national_park"
+  ],
+  "protection_title": [
+    "State Recreation Area"
+  ],
+  "landuse": [
+    "recreation_ground",
+    "fishfarm"
+  ]
+}

@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="osmcha" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+  <action type="create">
+    <node id="12401102629" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7221143" lon="-121.855482"/>
+  </action>
+  <action type="create">
+    <node id="12401102630" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.722124" lon="-121.8554545"/>
+  </action>
+  <action type="create">
+    <node id="12401102631" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.722159" lon="-121.8554089"/>
+  </action>
+  <action type="create">
+    <node id="12401102632" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7221952" lon="-121.8553533"/>
+  </action>
+  <action type="create">
+    <node id="12401102633" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7222191" lon="-121.8553057"/>
+  </action>
+  <action type="create">
+    <node id="12401102634" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7222297" lon="-121.85525"/>
+  </action>
+  <action type="create">
+    <node id="12401102635" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7222293" lon="-121.8551977"/>
+  </action>
+  <action type="create">
+    <node id="12401102636" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7222386" lon="-121.8551709"/>
+  </action>
+  <action type="create">
+    <node id="12401102637" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7222528" lon="-121.8551206"/>
+  </action>
+  <action type="create">
+    <node id="12401102638" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7222572" lon="-121.8550227"/>
+  </action>
+  <action type="create">
+    <node id="12401102639" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.722255" lon="-121.8549677"/>
+  </action>
+  <action type="create">
+    <node id="12401102640" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7222607" lon="-121.8549094"/>
+  </action>
+  <action type="create">
+    <node id="12401102641" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7222837" lon="-121.8548557"/>
+  </action>
+  <action type="create">
+    <node id="12401102642" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7222917" lon="-121.8548001"/>
+  </action>
+  <action type="create">
+    <node id="12401102643" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7223098" lon="-121.8547525"/>
+  </action>
+  <action type="create">
+    <node id="12401102644" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7223302" lon="-121.8546834"/>
+  </action>
+  <action type="create">
+    <node id="12401102645" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.722335" lon="-121.854623"/>
+  </action>
+  <action type="create">
+    <node id="12401102646" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7223607" lon="-121.8545473"/>
+  </action>
+  <action type="create">
+    <node id="12401102647" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7223939" lon="-121.8544943"/>
+  </action>
+  <action type="create">
+    <node id="12401102648" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7224169" lon="-121.8544688"/>
+  </action>
+  <action type="create">
+    <node id="12401102649" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7224359" lon="-121.8543991"/>
+  </action>
+  <action type="create">
+    <node id="12401102650" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7224377" lon="-121.8543776"/>
+  </action>
+  <action type="create">
+    <node id="12401102651" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7224629" lon="-121.8543984"/>
+  </action>
+  <action type="create">
+    <node id="12401102652" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7224938" lon="-121.8544192"/>
+  </action>
+  <action type="create">
+    <node id="12401102653" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7225186" lon="-121.8544272"/>
+  </action>
+  <action type="create">
+    <node id="12401102654" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7225584" lon="-121.8544353"/>
+  </action>
+  <action type="create">
+    <node id="12401102655" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7226442" lon="-121.8544259"/>
+  </action>
+  <action type="create">
+    <node id="12401102656" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7226832" lon="-121.8544058"/>
+  </action>
+  <action type="create">
+    <node id="12401102657" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7227044" lon="-121.8543769"/>
+  </action>
+  <action type="create">
+    <node id="12401102658" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7227305" lon="-121.8543119"/>
+  </action>
+  <action type="create">
+    <node id="12401102659" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7227363" lon="-121.8542603"/>
+  </action>
+  <action type="create">
+    <node id="12401102660" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7227358" lon="-121.8541557"/>
+  </action>
+  <action type="create">
+    <node id="12401102661" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7227146" lon="-121.8540953"/>
+  </action>
+  <action type="create">
+    <node id="12401102662" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7227933" lon="-121.8543863">
+      <tag k="backcountry" v="yes"/>
+      <tag k="operator" v="Mt. Baker-Snoqualmie National Forest"/>
+      <tag k="tents" v="yes"/>
+      <tag k="tourism" v="camp_pitch"/>
+    </node>
+  </action>
+  <action type="create">
+    <node id="12401102663" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.722404" lon="-121.8543139">
+      <tag k="backcountry" v="yes"/>
+      <tag k="operator" v="Mt. Baker-Snoqualmie National Forest"/>
+      <tag k="tents" v="yes"/>
+      <tag k="tourism" v="camp_pitch"/>
+    </node>
+  </action>
+  <action type="create">
+    <node id="12401102664" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7223368" lon="-121.8550327">
+      <tag k="backcountry" v="yes"/>
+      <tag k="operator" v="Mt. Baker-Snoqualmie National Forest"/>
+      <tag k="tents" v="yes"/>
+      <tag k="tourism" v="camp_pitch"/>
+    </node>
+  </action>
+  <action type="create">
+    <node id="12401102665" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7221939" lon="-121.8551192">
+      <tag k="backcountry" v="yes"/>
+      <tag k="operator" v="Mt. Baker-Snoqualmie National Forest"/>
+      <tag k="tents" v="yes"/>
+      <tag k="tourism" v="camp_pitch"/>
+    </node>
+  </action>
+  <action type="create">
+    <node id="12401102666" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7222523" lon="-121.8553479">
+      <tag k="backcountry" v="yes"/>
+      <tag k="operator" v="Mt. Baker-Snoqualmie National Forest"/>
+      <tag k="tents" v="yes"/>
+      <tag k="tourism" v="camp_pitch"/>
+    </node>
+  </action>
+  <action type="create">
+    <node id="12401102667" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958" lat="48.7221793" lon="-121.8555068">
+      <tag k="backcountry" v="yes"/>
+      <tag k="operator" v="Mt. Baker-Snoqualmie National Forest"/>
+      <tag k="tents" v="yes"/>
+      <tag k="tourism" v="camp_pitch"/>
+    </node>
+  </action>
+  <action type="create">
+    <way id="1340645494" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958">
+      <nd ref="1938180289" lon="-121.8540498" lat="48.7227108"/>
+      <nd ref="12401102661" lon="-121.8540953" lat="48.7227146"/>
+      <nd ref="12401102660" lon="-121.8541557" lat="48.7227358"/>
+      <nd ref="12401102659" lon="-121.8542603" lat="48.7227363"/>
+      <nd ref="12401102658" lon="-121.8543119" lat="48.7227305"/>
+      <nd ref="12401102657" lon="-121.8543769" lat="48.7227044"/>
+      <nd ref="12401102656" lon="-121.8544058" lat="48.7226832"/>
+      <nd ref="12401102655" lon="-121.8544259" lat="48.7226442"/>
+      <nd ref="12401102654" lon="-121.8544353" lat="48.7225584"/>
+      <nd ref="12401102653" lon="-121.8544272" lat="48.7225186"/>
+      <nd ref="12401102652" lon="-121.8544192" lat="48.7224938"/>
+      <nd ref="12401102651" lon="-121.8543984" lat="48.7224629"/>
+      <nd ref="12401102650" lon="-121.8543776" lat="48.7224377"/>
+      <nd ref="12401102649" lon="-121.8543991" lat="48.7224359"/>
+      <nd ref="12401102648" lon="-121.8544688" lat="48.7224169"/>
+      <nd ref="12401102647" lon="-121.8544943" lat="48.7223939"/>
+      <nd ref="12401102646" lon="-121.8545473" lat="48.7223607"/>
+      <nd ref="12401102645" lon="-121.854623" lat="48.722335"/>
+      <nd ref="12401102644" lon="-121.8546834" lat="48.7223302"/>
+      <nd ref="12401102643" lon="-121.8547525" lat="48.7223098"/>
+      <nd ref="12401102642" lon="-121.8548001" lat="48.7222917"/>
+      <nd ref="12401102641" lon="-121.8548557" lat="48.7222837"/>
+      <nd ref="12401102640" lon="-121.8549094" lat="48.7222607"/>
+      <nd ref="12401102639" lon="-121.8549677" lat="48.722255"/>
+      <nd ref="12401102638" lon="-121.8550227" lat="48.7222572"/>
+      <nd ref="12401102637" lon="-121.8551206" lat="48.7222528"/>
+      <nd ref="12401102636" lon="-121.8551709" lat="48.7222386"/>
+      <nd ref="12401102635" lon="-121.8551977" lat="48.7222293"/>
+      <nd ref="12401102634" lon="-121.85525" lat="48.7222297"/>
+      <nd ref="12401102633" lon="-121.8553057" lat="48.7222191"/>
+      <nd ref="12401102632" lon="-121.8553533" lat="48.7221952"/>
+      <nd ref="12401102631" lon="-121.8554089" lat="48.722159"/>
+      <nd ref="12401102630" lon="-121.8554545" lat="48.722124"/>
+      <nd ref="12401102629" lon="-121.855482" lat="48.7221143"/>
+      <tag k="highway" v="path"/>
+      <tag k="surface" v="ground"/>
+    </way>
+  </action>
+  <action type="create">
+    <relation id="18380229" version="1" timestamp="2024-12-06T22:30:32Z" uid="8794039" user="jake-low" changeset="160010958">
+      <member type="node" ref="12401102667" role="" lon="-121.8555068" lat="48.7221793"/>
+      <member type="node" ref="12401102666" role="" lon="-121.8553479" lat="48.7222523"/>
+      <member type="node" ref="12401102665" role="" lon="-121.8551192" lat="48.7221939"/>
+      <member type="node" ref="12401102664" role="" lon="-121.8550327" lat="48.7223368"/>
+      <member type="node" ref="12401102663" role="" lon="-121.8543139" lat="48.722404"/>
+      <member type="node" ref="12401102662" role="" lon="-121.8543863" lat="48.7227933"/>
+      <member type="way" ref="338982506" role="">
+        <nd lon="-121.8539883" lat="48.7226582"/>
+        <nd lon="-121.8539824" lat="48.7226104"/>
+        <nd lon="-121.8540587" lat="48.7226063"/>
+        <nd lon="-121.8540646" lat="48.7226542"/>
+        <nd lon="-121.8539883" lat="48.7226582"/>
+      </member>
+      <member type="node" ref="10088343387" role="" lon="-121.8546123" lat="48.7227742"/>
+      <tag k="backcountry" v="yes"/>
+      <tag k="name" v="Mazama Camp"/>
+      <tag k="operator" v="Mt. Baker-Snoqualmie National Forest"/>
+      <tag k="tourism" v="camp_site"/>
+      <tag k="type" v="site"/>
+    </relation>
+  </action>
+</osm>

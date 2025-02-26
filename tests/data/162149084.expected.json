@@ -1,0 +1,26 @@
+{
+  "protection_title": [
+    "Marine State Park",
+    "marine state park",
+    "State Park",
+    "state park",
+    "National Estuarine Research Reserve",
+    "national estuarine research reserve",
+    "Wildlife Area",
+    "state wildlife area",
+    "Natural Resources Conservation Area",
+    "natural resources conservation area",
+    "Natural Area Preserve",
+    "natural area preserve"
+  ],
+  "boundary": [
+    "protected_area"
+  ],
+  "leisure": [
+    "park",
+    "nature_reserve"
+  ],
+  "area": [
+    "yes"
+  ]
+}

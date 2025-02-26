@@ -1,0 +1,340 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="osmcha" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+  <action type="modify">
+    <old>
+      <node id="996454917" version="2" user="xybot" uid="70696" timestamp="2010-11-20T21:54:43Z" changeset="6417692" lon="-93.4178156" lat="44.9849184">
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="LaCompte Green Playfield"/>
+        <tag k="opening_hours" v="Mo-Su 5:00-20:30"/>
+      </node>
+    </old>
+    <new>
+      <node id="996454917" version="3" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9837396" lon="-93.4175411"/>
+    </new>
+  </action>
+  <action type="delete">
+    <old>
+      <node id="1000988232" version="2" user="dberg" uid="372018" timestamp="2010-11-23T15:44:26Z" changeset="6440159" lon="-93.417638" lat="44.9856261">
+        <tag k="landuse" v="recreation_ground"/>
+        <tag k="sport" v="baseball"/>
+      </node>
+    </old>
+    <new>
+      <node id="1000988232" version="3" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9856261" lon="-93.417638" visible="false"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="1000989358" version="1" user="dberg" uid="372018" timestamp="2010-11-23T15:33:49Z" changeset="6440159" lon="-93.4170211" lat="44.9849773">
+        <tag k="sport" v="skating"/>
+      </node>
+    </old>
+    <new>
+      <node id="1000989358" version="2" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9848405" lon="-93.4173354"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="1479939328" version="1" lon="-93.4189089" lat="44.9847558"/>
+    </old>
+    <new>
+      <node id="1479939328" version="2" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9847694" lon="-93.4189233"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="1479939330" version="1" lon="-93.4181196" lat="44.9847642"/>
+    </old>
+    <new>
+      <node id="1479939330" version="2" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9847778" lon="-93.418158"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="1479939339" version="1" lon="-93.4189227" lat="44.9853045"/>
+    </old>
+    <new>
+      <node id="1479939339" version="2" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9852825" lon="-93.4189155"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="1479939341" version="1" lon="-93.418108" lat="44.9853707"/>
+    </old>
+    <new>
+      <node id="1479939341" version="2" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9854131" lon="-93.4181775"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="1479939343" version="1" lon="-93.4182922" lat="44.9855862"/>
+    </old>
+    <new>
+      <node id="1479939343" version="2" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9856049" lon="-93.4183042"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="1479939345" version="1" lon="-93.4175595" lat="44.9857361"/>
+    </old>
+    <new>
+      <node id="1479939345" version="2" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9857581" lon="-93.4175547"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="3626085829" version="1" user="gdoggy77" uid="3024546" timestamp="2015-06-30T02:38:02Z" changeset="32298304" lon="-93.4175689" lat="44.9849292">
+        <tag k="leisure" v="park"/>
+      </node>
+    </old>
+    <new>
+      <node id="3626085829" version="2" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.985061" lon="-93.4176064"/>
+    </new>
+  </action>
+  <action type="delete">
+    <old>
+      <node id="11732167639" version="1" lon="-93.4175411" lat="44.9837396"/>
+    </old>
+    <new>
+      <node id="11732167639" version="2" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9837396" lon="-93.4175411" visible="false"/>
+    </new>
+  </action>
+  <action type="create">
+    <node id="12532433235" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9852126" lon="-93.4174485"/>
+  </action>
+  <action type="create">
+    <node id="12532433236" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9852046" lon="-93.4175809"/>
+  </action>
+  <action type="create">
+    <node id="12532433237" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9852395" lon="-93.4178459"/>
+  </action>
+  <action type="create">
+    <node id="12532433238" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9852899" lon="-93.4179794"/>
+  </action>
+  <action type="create">
+    <node id="12532433239" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9853354" lon="-93.4180772"/>
+  </action>
+  <action type="create">
+    <node id="12532433240" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9854971" lon="-93.4182516"/>
+  </action>
+  <action type="create">
+    <node id="12532433241" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9852798" lon="-93.4187839"/>
+  </action>
+  <action type="create">
+    <node id="12532433242" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9852615" lon="-93.4186067"/>
+  </action>
+  <action type="create">
+    <node id="12532433243" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9851518" lon="-93.4183339"/>
+  </action>
+  <action type="create">
+    <node id="12532433244" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9850799" lon="-93.4182574"/>
+  </action>
+  <action type="create">
+    <node id="12532433245" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9848928" lon="-93.4181718"/>
+  </action>
+  <action type="create">
+    <node id="12532433246" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9849349" lon="-93.4173234"/>
+  </action>
+  <action type="create">
+    <node id="12532433247" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9847544" lon="-93.4174842"/>
+  </action>
+  <action type="create">
+    <node id="12532433248" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9848806" lon="-93.4177672"/>
+  </action>
+  <action type="create">
+    <node id="12532433249" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9851897" lon="-93.4170573"/>
+  </action>
+  <action type="create">
+    <node id="12532433250" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9852169" lon="-93.4170238"/>
+  </action>
+  <action type="create">
+    <node id="12532433251" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.985227" lon="-93.4169926"/>
+  </action>
+  <action type="create">
+    <node id="12532433252" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9852287" lon="-93.4169542"/>
+  </action>
+  <action type="create">
+    <node id="12532433253" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9852203" lon="-93.4169111"/>
+  </action>
+  <action type="create">
+    <node id="12532433254" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9851813" lon="-93.4168104"/>
+  </action>
+  <action type="create">
+    <node id="12532433255" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9851643" lon="-93.416784"/>
+  </action>
+  <action type="create">
+    <node id="12532433256" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.985144" lon="-93.4167696"/>
+  </action>
+  <action type="create">
+    <node id="12532433257" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9851185" lon="-93.4167673"/>
+  </action>
+  <action type="create">
+    <node id="12532433258" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9850931" lon="-93.4167768"/>
+  </action>
+  <action type="create">
+    <node id="12532433259" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9847235" lon="-93.4170669"/>
+  </action>
+  <action type="create">
+    <node id="12532433260" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9847082" lon="-93.4171005"/>
+  </action>
+  <action type="create">
+    <node id="12532433261" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9846997" lon="-93.4171412"/>
+  </action>
+  <action type="create">
+    <node id="12532433262" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9846997" lon="-93.417182"/>
+  </action>
+  <action type="create">
+    <node id="12532433263" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9847065" lon="-93.4172108"/>
+  </action>
+  <action type="create">
+    <node id="12532433264" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9847489" lon="-93.417309"/>
+  </action>
+  <action type="create">
+    <node id="12532433265" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9847658" lon="-93.417333"/>
+  </action>
+  <action type="create">
+    <node id="12532433266" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9847862" lon="-93.4173474"/>
+  </action>
+  <action type="create">
+    <node id="12532433267" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449" lat="44.9848167" lon="-93.4173474"/>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="134622532" version="1" user="stucki1" uid="10786" timestamp="2011-10-25T05:05:19Z" changeset="9649160">
+        <bounds minlat="44.9847558" minlon="-93.4189227" maxlat="44.9853045" maxlon="-93.4181196"/>
+        <nd ref="1479939339" lon="-93.4189227" lat="44.9853045"/>
+        <nd ref="1479939328" lon="-93.4189089" lat="44.9847558"/>
+        <nd ref="1479939330" lon="-93.4181196" lat="44.9847642"/>
+        <nd ref="1479939332" lon="-93.4182097" lat="44.9850011"/>
+        <nd ref="1479939334" lon="-93.4184486" lat="44.9852144"/>
+        <nd ref="1479939339" lon="-93.4189227" lat="44.9853045"/>
+        <tag k="leisure" v="pitch"/>
+        <tag k="sport" v="baseball"/>
+      </way>
+    </old>
+    <new>
+      <way id="134622532" version="2" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449">
+        <nd ref="1479939339" lon="-93.4189155" lat="44.9852825"/>
+        <nd ref="1479939328" lon="-93.4189233" lat="44.9847694"/>
+        <nd ref="1479939330" lon="-93.418158" lat="44.9847778"/>
+        <nd ref="12532433245" lon="-93.4181718" lat="44.9848928"/>
+        <nd ref="1479939332" lon="-93.4182097" lat="44.9850011"/>
+        <nd ref="12532433244" lon="-93.4182574" lat="44.9850799"/>
+        <nd ref="12532433243" lon="-93.4183339" lat="44.9851518"/>
+        <nd ref="1479939334" lon="-93.4184486" lat="44.9852144"/>
+        <nd ref="12532433242" lon="-93.4186067" lat="44.9852615"/>
+        <nd ref="12532433241" lon="-93.4187839" lat="44.9852798"/>
+        <nd ref="1479939339" lon="-93.4189155" lat="44.9852825"/>
+        <tag k="leisure" v="pitch"/>
+        <tag k="sport" v="baseball"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="134622535" version="1" user="stucki1" uid="10786" timestamp="2011-10-25T05:05:19Z" changeset="9649160">
+        <bounds minlat="44.9852169" minlon="-93.4182922" maxlat="44.9857361" maxlon="-93.4173324"/>
+        <nd ref="1479939345" lon="-93.4175595" lat="44.9857361"/>
+        <nd ref="1479939343" lon="-93.4182922" lat="44.9855862"/>
+        <nd ref="1479939341" lon="-93.418108" lat="44.9853707"/>
+        <nd ref="1479939336" lon="-93.4177133" lat="44.9852169"/>
+        <nd ref="1479939338" lon="-93.4173324" lat="44.9852287"/>
+        <nd ref="1479939345" lon="-93.4175595" lat="44.9857361"/>
+        <tag k="leisure" v="pitch"/>
+        <tag k="sport" v="baseball"/>
+      </way>
+    </old>
+    <new>
+      <way id="134622535" version="2" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449">
+        <nd ref="1479939345" lon="-93.4175547" lat="44.9857581"/>
+        <nd ref="1479939343" lon="-93.4183042" lat="44.9856049"/>
+        <nd ref="12532433240" lon="-93.4182516" lat="44.9854971"/>
+        <nd ref="1479939341" lon="-93.4181775" lat="44.9854131"/>
+        <nd ref="12532433239" lon="-93.4180772" lat="44.9853354"/>
+        <nd ref="12532433238" lon="-93.4179794" lat="44.9852899"/>
+        <nd ref="12532433237" lon="-93.4178459" lat="44.9852395"/>
+        <nd ref="1479939336" lon="-93.4177133" lat="44.9852169"/>
+        <nd ref="12532433236" lon="-93.4175809" lat="44.9852046"/>
+        <nd ref="12532433235" lon="-93.4174485" lat="44.9852126"/>
+        <nd ref="1479939338" lon="-93.4173324" lat="44.9852287"/>
+        <nd ref="1479939345" lon="-93.4175547" lat="44.9857581"/>
+        <tag k="leisure" v="pitch"/>
+        <tag k="sport" v="baseball"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="1262705825" version="2" user="ablevi202" uid="15815055" timestamp="2024-03-14T21:32:14Z" changeset="148662583">
+        <bounds minlat="44.9837106" minlon="-93.4192624" maxlat="44.9860467" maxlon="-93.4163009"/>
+        <nd ref="11732167630" lon="-93.4163009" lat="44.9854878"/>
+        <nd ref="11732167631" lon="-93.4167519" lat="44.9847874"/>
+        <nd ref="11732167639" lon="-93.4175411" lat="44.9837396"/>
+        <nd ref="11732167640" lon="-93.4191925" lat="44.9837106"/>
+        <nd ref="11732214560" lon="-93.4192345" lat="44.9847159"/>
+        <nd ref="11732167641" lon="-93.4192624" lat="44.9853842"/>
+        <nd ref="11732167735" lon="-93.4186924" lat="44.9855891"/>
+        <nd ref="11732167642" lon="-93.4180258" lat="44.9858288"/>
+        <nd ref="11732167643" lon="-93.4177259" lat="44.9860467"/>
+        <nd ref="11732167630" lon="-93.4163009" lat="44.9854878"/>
+        <tag k="leisure" v="park"/>
+      </way>
+    </old>
+    <new>
+      <way id="1262705825" version="3" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449">
+        <nd ref="11732167630" lon="-93.4163009" lat="44.9854878"/>
+        <nd ref="11732167631" lon="-93.4167519" lat="44.9847874"/>
+        <nd ref="996454917" lon="-93.4175411" lat="44.9837396"/>
+        <nd ref="11732167640" lon="-93.4191925" lat="44.9837106"/>
+        <nd ref="11732214560" lon="-93.4192345" lat="44.9847159"/>
+        <nd ref="11732167641" lon="-93.4192624" lat="44.9853842"/>
+        <nd ref="11732167735" lon="-93.4186924" lat="44.9855891"/>
+        <nd ref="11732167642" lon="-93.4180258" lat="44.9858288"/>
+        <nd ref="11732167643" lon="-93.4177259" lat="44.9860467"/>
+        <nd ref="11732167630" lon="-93.4163009" lat="44.9854878"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="LaCompte Green Playfield"/>
+        <tag k="opening_hours" v="Mo-Su 5:00-20:30"/>
+      </way>
+    </new>
+  </action>
+  <action type="create">
+    <way id="1354259062" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449">
+      <nd ref="3626085829" lon="-93.4176064" lat="44.985061"/>
+      <nd ref="12532433246" lon="-93.4173234" lat="44.9849349"/>
+      <nd ref="12532433247" lon="-93.4174842" lat="44.9847544"/>
+      <nd ref="12532433248" lon="-93.4177672" lat="44.9848806"/>
+      <nd ref="3626085829" lon="-93.4176064" lat="44.985061"/>
+      <tag k="leisure" v="playground"/>
+    </way>
+  </action>
+  <action type="create">
+    <way id="1354259063" version="1" timestamp="2025-01-25T20:37:25Z" uid="8794039" user="jake-low" changeset="161760449">
+      <nd ref="1000989358" lon="-93.4173354" lat="44.9848405"/>
+      <nd ref="12532433249" lon="-93.4170573" lat="44.9851897"/>
+      <nd ref="12532433250" lon="-93.4170238" lat="44.9852169"/>
+      <nd ref="12532433251" lon="-93.4169926" lat="44.985227"/>
+      <nd ref="12532433252" lon="-93.4169542" lat="44.9852287"/>
+      <nd ref="12532433253" lon="-93.4169111" lat="44.9852203"/>
+      <nd ref="12532433254" lon="-93.4168104" lat="44.9851813"/>
+      <nd ref="12532433255" lon="-93.416784" lat="44.9851643"/>
+      <nd ref="12532433256" lon="-93.4167696" lat="44.985144"/>
+      <nd ref="12532433257" lon="-93.4167673" lat="44.9851185"/>
+      <nd ref="12532433258" lon="-93.4167768" lat="44.9850931"/>
+      <nd ref="12532433259" lon="-93.4170669" lat="44.9847235"/>
+      <nd ref="12532433260" lon="-93.4171005" lat="44.9847082"/>
+      <nd ref="12532433261" lon="-93.4171412" lat="44.9846997"/>
+      <nd ref="12532433262" lon="-93.417182" lat="44.9846997"/>
+      <nd ref="12532433263" lon="-93.4172108" lat="44.9847065"/>
+      <nd ref="12532433264" lon="-93.417309" lat="44.9847489"/>
+      <nd ref="12532433265" lon="-93.417333" lat="44.9847658"/>
+      <nd ref="12532433266" lon="-93.4173474" lat="44.9847862"/>
+      <nd ref="12532433267" lon="-93.4173474" lat="44.9848167"/>
+      <nd ref="1000989358" lon="-93.4173354" lat="44.9848405"/>
+      <tag k="indoor" v="no"/>
+      <tag k="leisure" v="ice_rink"/>
+      <tag k="seasonal" v="yes"/>
+      <tag k="sport" v="ice_skating"/>
+    </way>
+  </action>
+</osm>

@@ -1,0 +1,20 @@
+{
+  "leisure": [
+    "park",
+    "pitch",
+    "playground",
+    "ice_rink"
+  ],
+  "name": [
+    "LaCompte Green Playfield"
+  ],
+  "opening_hours": [
+    "Mo-Su 5:00-20:30"
+  ],
+  "sport": [
+    "skating"
+  ],
+  "landuse": [
+    "recreation_ground"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "highway": [
+    "residential"
+  ],
+  "protection_title": [
+    "State Park"
+  ],
+  "website": [
+    "https://www.lastateparks.com/parks-preserves/chemin-a-haut-state-park"
+  ],
+  "leisure": [
+    "nature_reserve",
+    "park"
+  ],
+  "operator:type": [
+    "government",
+    "public"
+  ],
+  "boundary": [
+    "protected_area"
+  ]
+}

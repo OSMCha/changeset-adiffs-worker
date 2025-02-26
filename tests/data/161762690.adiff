@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="osmcha" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+  <action type="modify">
+    <old>
+      <node id="358830811" version="2" user="Mateusz Konieczny - bot account" uid="3199858" timestamp="2024-08-25T14:00:23Z" changeset="155738679" lon="-122.2616339" lat="37.5560465">
+        <tag k="ele" v="2"/>
+        <tag k="gnis:feature_id" v="1785980"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Boat Park"/>
+      </node>
+    </old>
+    <new>
+      <node id="358830811" version="3" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5558624" lon="-122.261264"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="2925366107" version="1" lon="-122.2606286" lat="37.5563592"/>
+    </old>
+    <new>
+      <node id="2925366107" version="2" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5563705" lon="-122.2606476"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="2925366109" version="1" lon="-122.2601869" lat="37.5558263"/>
+    </old>
+    <new>
+      <node id="2925366109" version="2" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.555838" lon="-122.2602582"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="2925366110" version="1" lon="-122.2600284" lat="37.5560014"/>
+    </old>
+    <new>
+      <node id="2925366110" version="2" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5560182" lon="-122.2600213"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="6784432988" version="1" lon="-122.2608137" lat="37.5561633"/>
+    </old>
+    <new>
+      <node id="6784432988" version="2" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5561558" lon="-122.2608289"/>
+    </new>
+  </action>
+  <action type="create">
+    <node id="12532770762" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5564371" lon="-122.2606377"/>
+  </action>
+  <action type="create">
+    <node id="12532770763" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5564417" lon="-122.2606561"/>
+  </action>
+  <action type="create">
+    <node id="12532770764" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5564421" lon="-122.2606754"/>
+  </action>
+  <action type="create">
+    <node id="12532770765" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5564382" lon="-122.260694"/>
+  </action>
+  <action type="create">
+    <node id="12532770766" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5564303" lon="-122.2607106"/>
+  </action>
+  <action type="create">
+    <node id="12532770767" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5564191" lon="-122.2607237"/>
+  </action>
+  <action type="create">
+    <node id="12532770768" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.556044" lon="-122.2610548"/>
+  </action>
+  <action type="create">
+    <node id="12532770769" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5554784" lon="-122.260586"/>
+  </action>
+  <action type="create">
+    <node id="12532770770" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5548655" lon="-122.2605999"/>
+  </action>
+  <action type="create">
+    <node id="12532770771" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5549094" lon="-122.2604829"/>
+  </action>
+  <action type="create">
+    <node id="12532770772" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5550329" lon="-122.2602035"/>
+  </action>
+  <action type="create">
+    <node id="12532770773" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5551608" lon="-122.2599936"/>
+  </action>
+  <action type="create">
+    <node id="12532770774" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5553675" lon="-122.2597475"/>
+  </action>
+  <action type="create">
+    <node id="12532770775" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5556431" lon="-122.2595015"/>
+  </action>
+  <action type="create">
+    <node id="12532770776" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5557743" lon="-122.2597114"/>
+  </action>
+  <action type="create">
+    <node id="12532770777" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5561909" lon="-122.2602134"/>
+  </action>
+  <action type="create">
+    <node id="12532770778" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5558295" lon="-122.2601863"/>
+  </action>
+  <action type="create">
+    <node id="12532770779" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5558246" lon="-122.2602253"/>
+  </action>
+  <action type="create">
+    <node id="12532770780" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5558291" lon="-122.26024"/>
+  </action>
+  <action type="create">
+    <node id="12532770781" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5558242" lon="-122.2602129"/>
+  </action>
+  <action type="create">
+    <node id="12532770782" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5558257" lon="-122.2601972"/>
+  </action>
+  <action type="create">
+    <node id="12532770783" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.555837" lon="-122.2601754"/>
+  </action>
+  <action type="create">
+    <node id="12532770784" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690" lat="37.5558479" lon="-122.260163"/>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="288990502" version="2" user="zorque" uid="13445" timestamp="2019-09-10T06:41:56Z" changeset="74291251">
+        <bounds minlat="37.5558263" minlon="-122.2608137" maxlat="37.5563592" maxlon="-122.2600284"/>
+        <nd ref="2925366107" lon="-122.2606286" lat="37.5563592"/>
+        <nd ref="6784432988" lon="-122.2608137" lat="37.5561633"/>
+        <nd ref="2925366109" lon="-122.2601869" lat="37.5558263"/>
+        <nd ref="2925366110" lon="-122.2600284" lat="37.5560014"/>
+        <nd ref="2925366107" lon="-122.2606286" lat="37.5563592"/>
+        <tag k="leisure" v="dog_park"/>
+        <tag k="name" v="Foster City Dog Park"/>
+      </way>
+    </old>
+    <new>
+      <way id="288990502" version="3" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690">
+        <nd ref="2925366107" lon="-122.2606476" lat="37.5563705"/>
+        <nd ref="6784432988" lon="-122.2608289" lat="37.5561558"/>
+        <nd ref="2925366109" lon="-122.2602582" lat="37.555838"/>
+        <nd ref="12532770780" lon="-122.26024" lat="37.5558291"/>
+        <nd ref="12532770779" lon="-122.2602253" lat="37.5558246"/>
+        <nd ref="12532770781" lon="-122.2602129" lat="37.5558242"/>
+        <nd ref="12532770782" lon="-122.2601972" lat="37.5558257"/>
+        <nd ref="12532770778" lon="-122.2601863" lat="37.5558295"/>
+        <nd ref="12532770783" lon="-122.2601754" lat="37.555837"/>
+        <nd ref="12532770784" lon="-122.260163" lat="37.5558479"/>
+        <nd ref="2925366110" lon="-122.2600213" lat="37.5560182"/>
+        <nd ref="2925366107" lon="-122.2606476" lat="37.5563705"/>
+        <tag k="leisure" v="dog_park"/>
+        <tag k="name" v="Foster City Dog Park"/>
+      </way>
+    </new>
+  </action>
+  <action type="create">
+    <way id="1354284639" version="1" timestamp="2025-01-25T22:02:32Z" uid="8794039" user="jake-low" changeset="161762690">
+      <nd ref="12532770777" lon="-122.2602134" lat="37.5561909"/>
+      <nd ref="12532770776" lon="-122.2597114" lat="37.5557743"/>
+      <nd ref="12532770775" lon="-122.2595015" lat="37.5556431"/>
+      <nd ref="12532770774" lon="-122.2597475" lat="37.5553675"/>
+      <nd ref="12532770773" lon="-122.2599936" lat="37.5551608"/>
+      <nd ref="12532770772" lon="-122.2602035" lat="37.5550329"/>
+      <nd ref="12532770771" lon="-122.2604829" lat="37.5549094"/>
+      <nd ref="12532770770" lon="-122.2605999" lat="37.5548655"/>
+      <nd ref="12532770769" lon="-122.260586" lat="37.5554784"/>
+      <nd ref="358830811" lon="-122.261264" lat="37.5558624"/>
+      <nd ref="12532770768" lon="-122.2610548" lat="37.556044"/>
+      <nd ref="12532770767" lon="-122.2607237" lat="37.5564191"/>
+      <nd ref="12532770766" lon="-122.2607106" lat="37.5564303"/>
+      <nd ref="12532770765" lon="-122.260694" lat="37.5564382"/>
+      <nd ref="12532770764" lon="-122.2606754" lat="37.5564421"/>
+      <nd ref="12532770763" lon="-122.2606561" lat="37.5564417"/>
+      <nd ref="12532770762" lon="-122.2606377" lat="37.5564371"/>
+      <nd ref="12532770777" lon="-122.2602134" lat="37.5561909"/>
+      <tag k="ele" v="2"/>
+      <tag k="gnis:feature_id" v="1785980"/>
+      <tag k="leisure" v="park"/>
+      <tag k="name" v="Boat Park"/>
+      <tag k="source" v="San Mateo County GIS"/>
+      <tag k="website" v="https://www.fostercity.org/parksrec/page/boat-park"/>
+    </way>
+  </action>
+</osm>

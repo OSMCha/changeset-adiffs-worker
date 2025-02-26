@@ -56,6 +56,11 @@ export default function changetags(adiff) {
         }
         break;      
       case "modify":
+        if (action.old.version === action.new.version) {
+          // Skip 'modify' elements that haven't actually changed (OSMCha's
+          // adiff generator includes elements like these as context)
+          break;
+        }
         let oldKeys = new Set(Object.keys(action.old.tags));
         let newKeys = new Set(Object.keys(action.new.tags));
 

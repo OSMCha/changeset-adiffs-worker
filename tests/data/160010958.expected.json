@@ -1,0 +1,9 @@
+{
+  "tourism": [
+    "camp_pitch",
+    "camp_site"
+  ],
+  "highway": [
+    "path"
+  ]
+}

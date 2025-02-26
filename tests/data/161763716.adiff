@@ -1,0 +1,1358 @@
+<?xml version="1.0"?>
+<osm version="0.6" generator="osmcha" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+  <action type="delete">
+    <old>
+      <node id="165384377" version="6" lon="-119.7259584" lat="34.4262488"/>
+    </old>
+    <new>
+      <node id="165384377" version="7" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4262488" lon="-119.7259584" visible="false"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="358789930" version="2" user="Mateusz Konieczny - bot account" uid="3199858" timestamp="2024-08-26T14:34:17Z" changeset="155786187" lon="-119.7270811" lat="34.4294419">
+        <tag k="ele" v="47"/>
+        <tag k="gnis:feature_id" v="246746"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Oak Park"/>
+      </node>
+    </old>
+    <new>
+      <node id="358789930" version="3" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4294525" lon="-119.7270952"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="358822446" version="2" user="Mateusz Konieczny - bot account" uid="3199858" timestamp="2024-08-26T14:34:38Z" changeset="155786187" lon="-119.6929117" lat="34.4102751">
+        <tag k="ele" v="5"/>
+        <tag k="gnis:feature_id" v="1702868"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Ambassador Park"/>
+      </node>
+    </old>
+    <new>
+      <node id="358822446" version="3" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4108276" lon="-119.6923006"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="358822491" version="2" user="Mateusz Konieczny - bot account" uid="3199858" timestamp="2024-08-26T14:34:39Z" changeset="155786187" lon="-119.8459727" lat="34.4488844">
+        <tag k="ele" v="27"/>
+        <tag k="gnis:feature_id" v="1702898"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Stow Grove Park"/>
+      </node>
+    </old>
+    <new>
+      <node id="358822491" version="3" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4482859" lon="-119.8457069"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="358848403" version="2" user="Mateusz Konieczny - bot account" uid="3199858" timestamp="2024-08-26T14:34:50Z" changeset="155786187" lon="-119.7120798" lat="34.4172196">
+        <tag k="ele" v="16"/>
+        <tag k="gnis:feature_id" v="1871912"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Bohnett Park"/>
+      </node>
+    </old>
+    <new>
+      <node id="358848403" version="3" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4166658" lon="-119.7117292"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="358848409" version="3" user="Mateusz Konieczny - bot account" uid="3199858" timestamp="2024-08-26T14:34:53Z" changeset="155786187" lon="-119.7278477" lat="34.4110385">
+        <tag k="ele" v="96"/>
+        <tag k="gnis:feature_id" v="1871918"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Escondido Park"/>
+      </node>
+    </old>
+    <new>
+      <node id="358848409" version="4" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4115822" lon="-119.7279692"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="358848443" version="2" user="Mateusz Konieczny - bot account" uid="3199858" timestamp="2024-08-26T14:35:02Z" changeset="155786187" lon="-119.7323595" lat="34.4397196">
+        <tag k="ele" v="73"/>
+        <tag k="gnis:feature_id" v="1871942"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="McKenzie Park"/>
+      </node>
+    </old>
+    <new>
+      <node id="358848443" version="3" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4396645" lon="-119.7323552"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="358848458" version="2" user="Mateusz Konieczny - bot account" uid="3199858" timestamp="2024-08-26T14:35:05Z" changeset="155786187" lon="-119.7240253" lat="34.4255531">
+        <tag k="ele" v="37"/>
+        <tag k="gnis:feature_id" v="1871953"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Pilgrim Terrace Park"/>
+      </node>
+    </old>
+    <new>
+      <node id="358848458" version="3" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4262488" lon="-119.7259584"/>
+    </new>
+  </action>
+  <action type="delete">
+    <old>
+      <node id="358848475" version="3" user="Mateusz Konieczny - bot account" uid="3199858" timestamp="2024-08-26T14:35:08Z" changeset="155786187" lon="-119.744304" lat="34.4499975">
+        <tag k="addr:city" v="Santa Barbara"/>
+        <tag k="addr:housenumber" v="600"/>
+        <tag k="addr:postcode" v="93105"/>
+        <tag k="addr:state" v="CA"/>
+        <tag k="addr:street" v="Willowglen Road"/>
+        <tag k="ele" v="86"/>
+        <tag k="gnis:feature_id" v="1871973"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Willowglen Park"/>
+        <tag k="operator" v="City of Santa Barbara Parks and Recreation Department"/>
+        <tag k="operator:type" v="government"/>
+        <tag k="website" v="https://sbparksandrec.santabarbaraca.gov/parks/willowglen-park"/>
+      </node>
+    </old>
+    <new>
+      <node id="358848475" version="4" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4499975" lon="-119.744304" visible="false"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="358848489" version="2" user="Mateusz Konieczny - bot account" uid="3199858" timestamp="2024-08-26T14:35:15Z" changeset="155786187" lon="-119.6987458" lat="34.4199972">
+        <tag k="ele" v="15"/>
+        <tag k="gnis:feature_id" v="1871984"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="City Hall Plaza"/>
+      </node>
+    </old>
+    <new>
+      <node id="358848489" version="3" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4202135" lon="-119.698894"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <node id="358848587" version="2" user="Mateusz Konieczny - bot account" uid="3199858" timestamp="2024-08-26T14:35:30Z" changeset="155786187" lon="-119.7068018" lat="34.421664">
+        <tag k="ele" v="24"/>
+        <tag k="gnis:feature_id" v="1872088"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Spencer Adams Park"/>
+      </node>
+    </old>
+    <new>
+      <node id="358848587" version="3" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4213924" lon="-119.7067676"/>
+    </new>
+  </action>
+  <action type="delete">
+    <old>
+      <node id="358848591" version="2" user="Mateusz Konieczny - bot account" uid="3199858" timestamp="2024-08-26T14:35:32Z" changeset="155786187" lon="-119.6765223" lat="34.424719">
+        <tag k="ele" v="12"/>
+        <tag k="gnis:feature_id" v="1872091"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Sunflower Park"/>
+      </node>
+    </old>
+    <new>
+      <node id="358848591" version="3" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.424719" lon="-119.6765223" visible="false"/>
+    </new>
+  </action>
+  <action type="delete">
+    <old>
+      <node id="1672505865" version="1" lon="-119.8457069" lat="34.4482859"/>
+    </old>
+    <new>
+      <node id="1672505865" version="2" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4482859" lon="-119.8457069" visible="false"/>
+    </new>
+  </action>
+  <action type="delete">
+    <old>
+      <node id="3556221153" version="1" lon="-119.698894" lat="34.4202135"/>
+    </old>
+    <new>
+      <node id="3556221153" version="2" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4202135" lon="-119.698894" visible="false"/>
+    </new>
+  </action>
+  <action type="delete">
+    <old>
+      <node id="3556282383" version="1" lon="-119.6923006" lat="34.4108276"/>
+    </old>
+    <new>
+      <node id="3556282383" version="2" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4108276" lon="-119.6923006" visible="false"/>
+    </new>
+  </action>
+  <action type="delete">
+    <old>
+      <node id="7739959360" version="1" lon="-119.7117292" lat="34.4166658"/>
+    </old>
+    <new>
+      <node id="7739959360" version="2" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4166658" lon="-119.7117292" visible="false"/>
+    </new>
+  </action>
+  <action type="delete">
+    <old>
+      <node id="8313225858" version="1" lon="-119.7279692" lat="34.4115822"/>
+    </old>
+    <new>
+      <node id="8313225858" version="2" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4115822" lon="-119.7279692" visible="false"/>
+    </new>
+  </action>
+  <action type="delete">
+    <old>
+      <node id="9800410097" version="1" lon="-119.7270952" lat="34.4294525"/>
+    </old>
+    <new>
+      <node id="9800410097" version="2" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4294525" lon="-119.7270952" visible="false"/>
+    </new>
+  </action>
+  <action type="delete">
+    <old>
+      <node id="11384631136" version="1" lon="-119.7323552" lat="34.4396645"/>
+    </old>
+    <new>
+      <node id="11384631136" version="2" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4396645" lon="-119.7323552" visible="false"/>
+    </new>
+  </action>
+  <action type="delete">
+    <old>
+      <node id="11875906858" version="1" lon="-119.7067676" lat="34.4213924"/>
+    </old>
+    <new>
+      <node id="11875906858" version="2" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" lat="34.4213924" lon="-119.7067676" visible="false"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="40118628" version="3" user="inah_telenav" uid="5188736" timestamp="2018-06-11T08:17:27Z" changeset="59732403">
+        <bounds minlat="34.4219768" minlon="-119.6988521" maxlat="34.4221721" maxlon="-119.6986082"/>
+        <nd ref="482818472" lon="-119.6986082" lat="34.4221004"/>
+        <nd ref="482818471" lon="-119.6987395" lat="34.4219768"/>
+        <nd ref="482818475" lon="-119.6988521" lat="34.4220556"/>
+        <nd ref="482818473" lon="-119.6987219" lat="34.4221721"/>
+        <nd ref="482818472" lon="-119.6986082" lat="34.4221004"/>
+        <tag k="attribution" v="CASIL CSP_Opbdys072008"/>
+        <tag k="csp:globalid" v="{0412118F-82C6-4D35-97B8-5BCC1243EDCE}"/>
+        <tag k="csp:unitcode" v="575"/>
+        <tag k="leisure" v="park"/>
+        <tag k="park:type" v="state_historic_park"/>
+      </way>
+    </old>
+    <new>
+      <way id="40118628" version="4" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="482818472" lon="-119.6986082" lat="34.4221004"/>
+        <nd ref="482818471" lon="-119.6987395" lat="34.4219768"/>
+        <nd ref="482818475" lon="-119.6988521" lat="34.4220556"/>
+        <nd ref="482818473" lon="-119.6987219" lat="34.4221721"/>
+        <nd ref="482818472" lon="-119.6986082" lat="34.4221004"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="40118629" version="6" user="hofoen" uid="52797" timestamp="2019-12-22T15:31:24Z" changeset="78737139">
+        <bounds minlat="34.4220787" minlon="-119.6979071" maxlat="34.4227312" maxlon="-119.6970226"/>
+        <nd ref="482818490" lon="-119.6972951" lat="34.4224775"/>
+        <nd ref="482818491" lon="-119.6972294" lat="34.4225394"/>
+        <nd ref="482818476" lon="-119.6970226" lat="34.422389"/>
+        <nd ref="482818477" lon="-119.6973516" lat="34.4220787"/>
+        <nd ref="482818479" lon="-119.6978074" lat="34.4224107"/>
+        <nd ref="482818480" lon="-119.6979071" lat="34.4224833"/>
+        <nd ref="482818481" lon="-119.697644" lat="34.4227312"/>
+        <nd ref="482818490" lon="-119.6972951" lat="34.4224775"/>
+        <tag k="attribution" v="CASIL CSP_Opbdys072008"/>
+        <tag k="csp:globalid" v="{0412118F-82C6-4D35-97B8-5BCC1243EDCE}"/>
+        <tag k="csp:unitcode" v="575"/>
+        <tag k="heritage" v="yes"/>
+        <tag k="leisure" v="park"/>
+        <tag k="park:type" v="state_historic_park"/>
+        <tag k="website" v="http://www.parks.ca.gov/?page_id=608"/>
+        <tag k="wikidata" v="Q3402430"/>
+        <tag k="wikipedia" v="en:Presidio of Santa Barbara"/>
+      </way>
+    </old>
+    <new>
+      <way id="40118629" version="7" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="482818490" lon="-119.6972951" lat="34.4224775"/>
+        <nd ref="482818491" lon="-119.6972294" lat="34.4225394"/>
+        <nd ref="482818476" lon="-119.6970226" lat="34.422389"/>
+        <nd ref="482818477" lon="-119.6973516" lat="34.4220787"/>
+        <nd ref="482818479" lon="-119.6978074" lat="34.4224107"/>
+        <nd ref="482818480" lon="-119.6979071" lat="34.4224833"/>
+        <nd ref="482818481" lon="-119.697644" lat="34.4227312"/>
+        <nd ref="482818490" lon="-119.6972951" lat="34.4224775"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="40118630" version="7" user="trafficfurnitur" uid="14223477" timestamp="2024-05-17T22:58:47Z" changeset="151474097">
+        <bounds minlat="34.4217311" minlon="-119.6999452" maxlat="34.4237351" maxlon="-119.697738"/>
+        <nd ref="482818414" lon="-119.6983563" lat="34.4237351"/>
+        <nd ref="482818413" lon="-119.6981293" lat="34.4235743"/>
+        <nd ref="482818412" lon="-119.6980884" lat="34.423613"/>
+        <nd ref="482818411" lon="-119.697738" lat="34.4233569"/>
+        <nd ref="482818409" lon="-119.6983208" lat="34.4227999"/>
+        <nd ref="482818408" lon="-119.6984024" lat="34.422844"/>
+        <nd ref="482818421" lon="-119.6985336" lat="34.4227201"/>
+        <nd ref="482818422" lon="-119.6984769" lat="34.4226655"/>
+        <nd ref="482818416" lon="-119.6994706" lat="34.4217311"/>
+        <nd ref="482818435" lon="-119.6999452" lat="34.4220788"/>
+        <nd ref="482818428" lon="-119.6996746" lat="34.4223351"/>
+        <nd ref="482818426" lon="-119.6998573" lat="34.4224605"/>
+        <nd ref="482818463" lon="-119.6996873" lat="34.4226599"/>
+        <nd ref="482818461" lon="-119.699408" lat="34.4224882"/>
+        <nd ref="482818462" lon="-119.6993385" lat="34.4225726"/>
+        <nd ref="482818467" lon="-119.6993881" lat="34.4226024"/>
+        <nd ref="482818465" lon="-119.699086" lat="34.4229639"/>
+        <nd ref="482818455" lon="-119.6989968" lat="34.4230488"/>
+        <nd ref="482818453" lon="-119.6987749" lat="34.4228958"/>
+        <nd ref="482818459" lon="-119.6986436" lat="34.4230197"/>
+        <nd ref="482818460" lon="-119.6989691" lat="34.4232567"/>
+        <nd ref="482818456" lon="-119.698641" lat="34.4235656"/>
+        <nd ref="482818458" lon="-119.6985751" lat="34.4235177"/>
+        <nd ref="482818414" lon="-119.6983563" lat="34.4237351"/>
+        <tag k="attribution" v="CASIL CSP_Opbdys072008"/>
+        <tag k="csp:globalid" v="{0412118F-82C6-4D35-97B8-5BCC1243EDCE}"/>
+        <tag k="csp:unitcode" v="575"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="El Presidio de Santa Barbara State Historic Park"/>
+        <tag k="name:en" v="Presidio of Santa Barbara State Historic Park"/>
+        <tag k="park:type" v="state_historic_park"/>
+        <tag k="website" v="http://www.parks.ca.gov/?page_id=608"/>
+        <tag k="wikipedia" v="en:Presidio of Santa Barbara"/>
+      </way>
+    </old>
+    <new>
+      <way id="40118630" version="8" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="482818414" lon="-119.6983563" lat="34.4237351"/>
+        <nd ref="482818413" lon="-119.6981293" lat="34.4235743"/>
+        <nd ref="482818412" lon="-119.6980884" lat="34.423613"/>
+        <nd ref="482818411" lon="-119.697738" lat="34.4233569"/>
+        <nd ref="482818409" lon="-119.6983208" lat="34.4227999"/>
+        <nd ref="482818408" lon="-119.6984024" lat="34.422844"/>
+        <nd ref="482818421" lon="-119.6985336" lat="34.4227201"/>
+        <nd ref="482818422" lon="-119.6984769" lat="34.4226655"/>
+        <nd ref="482818416" lon="-119.6994706" lat="34.4217311"/>
+        <nd ref="482818435" lon="-119.6999452" lat="34.4220788"/>
+        <nd ref="482818428" lon="-119.6996746" lat="34.4223351"/>
+        <nd ref="482818426" lon="-119.6998573" lat="34.4224605"/>
+        <nd ref="482818463" lon="-119.6996873" lat="34.4226599"/>
+        <nd ref="482818461" lon="-119.699408" lat="34.4224882"/>
+        <nd ref="482818462" lon="-119.6993385" lat="34.4225726"/>
+        <nd ref="482818467" lon="-119.6993881" lat="34.4226024"/>
+        <nd ref="482818465" lon="-119.699086" lat="34.4229639"/>
+        <nd ref="482818455" lon="-119.6989968" lat="34.4230488"/>
+        <nd ref="482818453" lon="-119.6987749" lat="34.4228958"/>
+        <nd ref="482818459" lon="-119.6986436" lat="34.4230197"/>
+        <nd ref="482818460" lon="-119.6989691" lat="34.4232567"/>
+        <nd ref="482818456" lon="-119.698641" lat="34.4235656"/>
+        <nd ref="482818458" lon="-119.6985751" lat="34.4235177"/>
+        <nd ref="482818414" lon="-119.6983563" lat="34.4237351"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="40118631" version="4" user="inah_telenav" uid="5188736" timestamp="2018-06-11T08:18:05Z" changeset="59732424">
+        <bounds minlat="34.4225558" minlon="-119.6981561" maxlat="34.4229125" maxlon="-119.697744"/>
+        <nd ref="482818482" lon="-119.697744" lat="34.4228038"/>
+        <nd ref="482818483" lon="-119.6980067" lat="34.4225558"/>
+        <nd ref="482818470" lon="-119.6981561" lat="34.4226647"/>
+        <nd ref="482818469" lon="-119.6978933" lat="34.4229125"/>
+        <nd ref="482818482" lon="-119.697744" lat="34.4228038"/>
+        <tag k="attribution" v="CASIL CSP_Opbdys072008"/>
+        <tag k="csp:globalid" v="{0412118F-82C6-4D35-97B8-5BCC1243EDCE}"/>
+        <tag k="csp:unitcode" v="575"/>
+        <tag k="leisure" v="park"/>
+        <tag k="park:type" v="state_historic_park"/>
+        <tag k="website" v="http://www.parks.ca.gov/?page_id=608"/>
+        <tag k="wikipedia" v="en:Presidio of Santa Barbara"/>
+      </way>
+    </old>
+    <new>
+      <way id="40118631" version="5" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="482818482" lon="-119.697744" lat="34.4228038"/>
+        <nd ref="482818483" lon="-119.6980067" lat="34.4225558"/>
+        <nd ref="482818470" lon="-119.6981561" lat="34.4226647"/>
+        <nd ref="482818469" lon="-119.6978933" lat="34.4229125"/>
+        <nd ref="482818482" lon="-119.697744" lat="34.4228038"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="40118632" version="6" user="Clarke22" uid="703694" timestamp="2023-08-12T00:41:30Z" changeset="139770379">
+        <bounds minlat="34.421587" minlon="-119.6983394" maxlat="34.4222748" maxlon="-119.6974103"/>
+        <nd ref="482818451" lon="-119.6974103" lat="34.4218841"/>
+        <nd ref="482818449" lon="-119.6975448" lat="34.4217529"/>
+        <nd ref="482818448" lon="-119.6976894" lat="34.421856"/>
+        <nd ref="482818439" lon="-119.6979648" lat="34.4216246"/>
+        <nd ref="482818438" lon="-119.6979921" lat="34.4216502"/>
+        <nd ref="482818436" lon="-119.6980677" lat="34.421587"/>
+        <nd ref="482818442" lon="-119.698264" lat="34.4217042"/>
+        <nd ref="482818441" lon="-119.6981701" lat="34.4217901"/>
+        <nd ref="482818440" lon="-119.6983394" lat="34.4219126"/>
+        <nd ref="482818485" lon="-119.697943" lat="34.4222748"/>
+        <nd ref="482818451" lon="-119.6974103" lat="34.4218841"/>
+        <tag k="attribution" v="CASIL CSP_Opbdys072008"/>
+        <tag k="csp:globalid" v="{0412118F-82C6-4D35-97B8-5BCC1243EDCE}"/>
+        <tag k="csp:unitcode" v="575"/>
+        <tag k="leisure" v="park"/>
+        <tag k="park:type" v="state_historic_park"/>
+        <tag k="website" v="http://www.parks.ca.gov/?page_id=608"/>
+        <tag k="wikipedia" v="en:Presidio of Santa Barbara"/>
+      </way>
+    </old>
+    <new>
+      <way id="40118632" version="7" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="482818451" lon="-119.6974103" lat="34.4218841"/>
+        <nd ref="482818449" lon="-119.6975448" lat="34.4217529"/>
+        <nd ref="482818448" lon="-119.6976894" lat="34.421856"/>
+        <nd ref="482818439" lon="-119.6979648" lat="34.4216246"/>
+        <nd ref="482818438" lon="-119.6979921" lat="34.4216502"/>
+        <nd ref="482818436" lon="-119.6980677" lat="34.421587"/>
+        <nd ref="482818442" lon="-119.698264" lat="34.4217042"/>
+        <nd ref="482818441" lon="-119.6981701" lat="34.4217901"/>
+        <nd ref="482818440" lon="-119.6983394" lat="34.4219126"/>
+        <nd ref="482818485" lon="-119.697943" lat="34.4222748"/>
+        <nd ref="482818451" lon="-119.6974103" lat="34.4218841"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="44580689" version="5" user="ZeLonewolf" uid="219297" timestamp="2021-04-02T16:07:12Z" changeset="102204566">
+        <bounds minlat="34.4103717" minlon="-119.6923006" maxlat="34.4109823" maxlon="-119.6915104"/>
+        <nd ref="3556282377" lon="-119.691674" lat="34.4103717"/>
+        <nd ref="3556282383" lon="-119.6923006" lat="34.4108276"/>
+        <nd ref="3556282378" lon="-119.6921357" lat="34.4109823"/>
+        <nd ref="3556282384" lon="-119.6915104" lat="34.4105243"/>
+        <nd ref="3556282377" lon="-119.691674" lat="34.4103717"/>
+        <tag k="Tiger:MTFCC" v="K2180"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Ambassador Park"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="tiger:ALAND" v="4119"/>
+        <tag k="tiger:AREAID" v="110809876523"/>
+        <tag k="tiger:AWATER" v="0"/>
+        <tag k="tiger:COUNTYFP" v="083"/>
+        <tag k="tiger:STATEFP" v="06"/>
+        <tag k="tiger:reviewed" v="no"/>
+      </way>
+    </old>
+    <new>
+      <way id="44580689" version="6" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="3556282377" lon="-119.691674" lat="34.4103717"/>
+        <nd ref="358822446" lon="-119.6923006" lat="34.4108276"/>
+        <nd ref="3556282378" lon="-119.6921357" lat="34.4109823"/>
+        <nd ref="3556282384" lon="-119.6915104" lat="34.4105243"/>
+        <nd ref="3556282377" lon="-119.691674" lat="34.4103717"/>
+        <tag k="ele" v="5"/>
+        <tag k="gnis:feature_id" v="1702868"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Ambassador Park"/>
+        <tag k="source" v="Tiger2009"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="44580727" version="6" user="ZeLonewolf" uid="219297" timestamp="2021-04-02T16:07:12Z" changeset="102204566">
+        <bounds minlat="34.448217" minlon="-119.744533" maxlat="34.451162" maxlon="-119.742966"/>
+        <nd ref="249935292" lon="-119.744395" lat="34.448217"/>
+        <nd ref="249935300" lon="-119.744479" lat="34.448358"/>
+        <nd ref="249935297" lon="-119.744479" lat="34.448491"/>
+        <nd ref="249935450" lon="-119.744395" lat="34.448709"/>
+        <nd ref="566112210" lon="-119.744211" lat="34.448999"/>
+        <nd ref="249935452" lon="-119.744105" lat="34.449167"/>
+        <nd ref="249935444" lon="-119.744044" lat="34.449392"/>
+        <nd ref="249935440" lon="-119.744159" lat="34.449579"/>
+        <nd ref="249935442" lon="-119.74425" lat="34.449632"/>
+        <nd ref="249935435" lon="-119.744372" lat="34.449659"/>
+        <nd ref="249935438" lon="-119.74451" lat="34.449819"/>
+        <nd ref="249935430" lon="-119.744533" lat="34.450033"/>
+        <nd ref="249935433" lon="-119.744494" lat="34.4503"/>
+        <nd ref="249935426" lon="-119.744395" lat="34.450456"/>
+        <nd ref="249935428" lon="-119.744189" lat="34.450643"/>
+        <nd ref="249935421" lon="-119.743998" lat="34.450861"/>
+        <nd ref="249935424" lon="-119.743983" lat="34.451005"/>
+        <nd ref="249935417" lon="-119.744052" lat="34.451162"/>
+        <nd ref="4845821415" lon="-119.7439299" lat="34.4511157"/>
+        <nd ref="566112257" lon="-119.74358" lat="34.450983"/>
+        <nd ref="566112260" lon="-119.742966" lat="34.450574"/>
+        <nd ref="566112259" lon="-119.743158" lat="34.450412"/>
+        <nd ref="566112247" lon="-119.743233" lat="34.450326"/>
+        <nd ref="566112243" lon="-119.743315" lat="34.450201"/>
+        <nd ref="566112252" lon="-119.743398" lat="34.450042"/>
+        <nd ref="566112250" lon="-119.743714" lat="34.449163"/>
+        <nd ref="566112216" lon="-119.7438" lat="34.448975"/>
+        <nd ref="566112215" lon="-119.743917" lat="34.448778"/>
+        <nd ref="566112218" lon="-119.74397" lat="34.448688"/>
+        <nd ref="566112217" lon="-119.74403" lat="34.448557"/>
+        <nd ref="566112221" lon="-119.744077" lat="34.448423"/>
+        <nd ref="165472035" lon="-119.744109" lat="34.448283"/>
+        <nd ref="165472037" lon="-119.744195" lat="34.448291"/>
+        <nd ref="165472039" lon="-119.744393" lat="34.448287"/>
+        <nd ref="249935292" lon="-119.744395" lat="34.448217"/>
+        <tag k="Tiger:MTFCC" v="K2180"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Willowglen Park"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="tiger:ALAND" v="20717"/>
+        <tag k="tiger:AREAID" v="110809876555"/>
+        <tag k="tiger:AWATER" v="0"/>
+        <tag k="tiger:COUNTYFP" v="083"/>
+        <tag k="tiger:STATEFP" v="06"/>
+        <tag k="tiger:reviewed" v="no"/>
+      </way>
+    </old>
+    <new>
+      <way id="44580727" version="7" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="249935292" lon="-119.744395" lat="34.448217"/>
+        <nd ref="249935300" lon="-119.744479" lat="34.448358"/>
+        <nd ref="249935297" lon="-119.744479" lat="34.448491"/>
+        <nd ref="249935450" lon="-119.744395" lat="34.448709"/>
+        <nd ref="566112210" lon="-119.744211" lat="34.448999"/>
+        <nd ref="249935452" lon="-119.744105" lat="34.449167"/>
+        <nd ref="249935444" lon="-119.744044" lat="34.449392"/>
+        <nd ref="249935440" lon="-119.744159" lat="34.449579"/>
+        <nd ref="249935442" lon="-119.74425" lat="34.449632"/>
+        <nd ref="249935435" lon="-119.744372" lat="34.449659"/>
+        <nd ref="249935438" lon="-119.74451" lat="34.449819"/>
+        <nd ref="249935430" lon="-119.744533" lat="34.450033"/>
+        <nd ref="249935433" lon="-119.744494" lat="34.4503"/>
+        <nd ref="249935426" lon="-119.744395" lat="34.450456"/>
+        <nd ref="249935428" lon="-119.744189" lat="34.450643"/>
+        <nd ref="249935421" lon="-119.743998" lat="34.450861"/>
+        <nd ref="249935424" lon="-119.743983" lat="34.451005"/>
+        <nd ref="249935417" lon="-119.744052" lat="34.451162"/>
+        <nd ref="4845821415" lon="-119.7439299" lat="34.4511157"/>
+        <nd ref="566112257" lon="-119.74358" lat="34.450983"/>
+        <nd ref="566112260" lon="-119.742966" lat="34.450574"/>
+        <nd ref="566112259" lon="-119.743158" lat="34.450412"/>
+        <nd ref="566112247" lon="-119.743233" lat="34.450326"/>
+        <nd ref="566112243" lon="-119.743315" lat="34.450201"/>
+        <nd ref="566112252" lon="-119.743398" lat="34.450042"/>
+        <nd ref="566112250" lon="-119.743714" lat="34.449163"/>
+        <nd ref="566112216" lon="-119.7438" lat="34.448975"/>
+        <nd ref="566112215" lon="-119.743917" lat="34.448778"/>
+        <nd ref="566112218" lon="-119.74397" lat="34.448688"/>
+        <nd ref="566112217" lon="-119.74403" lat="34.448557"/>
+        <nd ref="566112221" lon="-119.744077" lat="34.448423"/>
+        <nd ref="165472035" lon="-119.744109" lat="34.448283"/>
+        <nd ref="165472037" lon="-119.744195" lat="34.448291"/>
+        <nd ref="165472039" lon="-119.744393" lat="34.448287"/>
+        <nd ref="249935292" lon="-119.744395" lat="34.448217"/>
+        <tag k="addr:city" v="Santa Barbara"/>
+        <tag k="addr:housenumber" v="600"/>
+        <tag k="addr:postcode" v="93105"/>
+        <tag k="addr:state" v="CA"/>
+        <tag k="addr:street" v="Willowglen Road"/>
+        <tag k="ele" v="86"/>
+        <tag k="gnis:feature_id" v="1871973"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Willowglen Park"/>
+        <tag k="operator" v="City of Santa Barbara Parks and Recreation Department"/>
+        <tag k="operator:type" v="government"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="website" v="https://sbparksandrec.santabarbaraca.gov/parks/willowglen-park"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="44580809" version="4" user="ZeLonewolf" uid="219297" timestamp="2021-04-02T16:07:12Z" changeset="102204566">
+        <bounds minlat="34.4262325" minlon="-119.6780285" maxlat="34.4275714" maxlon="-119.6764334"/>
+        <nd ref="3556221186" lon="-119.6774761" lat="34.4262325"/>
+        <nd ref="3556221164" lon="-119.6780285" lat="34.4266489"/>
+        <nd ref="3556221177" lon="-119.6770175" lat="34.4275714"/>
+        <nd ref="3556221192" lon="-119.6764334" lat="34.4271678"/>
+        <nd ref="3556221186" lon="-119.6774761" lat="34.4262325"/>
+        <tag k="Tiger:MTFCC" v="K2180"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="East Side Neighborhood Park"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="tiger:ALAND" v="19412"/>
+        <tag k="tiger:AREAID" v="110809876635"/>
+        <tag k="tiger:AWATER" v="0"/>
+        <tag k="tiger:COUNTYFP" v="083"/>
+        <tag k="tiger:STATEFP" v="06"/>
+        <tag k="tiger:reviewed" v="no"/>
+      </way>
+    </old>
+    <new>
+      <way id="44580809" version="5" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="3556221186" lon="-119.6774761" lat="34.4262325"/>
+        <nd ref="3556221164" lon="-119.6780285" lat="34.4266489"/>
+        <nd ref="3556221177" lon="-119.6770175" lat="34.4275714"/>
+        <nd ref="3556221192" lon="-119.6764334" lat="34.4271678"/>
+        <nd ref="3556221186" lon="-119.6774761" lat="34.4262325"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="East Side Neighborhood Park"/>
+        <tag k="source" v="Tiger2009"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="44580843" version="6" user="ZeLonewolf" uid="219297" timestamp="2021-04-02T16:07:12Z" changeset="102204566">
+        <bounds minlat="34.4165614" minlon="-119.7130323" maxlat="34.4178982" maxlon="-119.7113773"/>
+        <nd ref="3556285527" lon="-119.7113862" lat="34.417026"/>
+        <nd ref="7739959359" lon="-119.7113773" lat="34.416996"/>
+        <nd ref="7739959360" lon="-119.7117292" lat="34.4166658"/>
+        <nd ref="7739959361" lon="-119.7117569" lat="34.4166104"/>
+        <nd ref="3556285528" lon="-119.7118172" lat="34.4165614"/>
+        <nd ref="566111811" lon="-119.7130323" lat="34.4173882"/>
+        <nd ref="3556285526" lon="-119.7125326" lat="34.4178982"/>
+        <nd ref="3556285527" lon="-119.7113862" lat="34.417026"/>
+        <tag k="Tiger:MTFCC" v="K2180"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Bohnett Park"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="tiger:ALAND" v="10205"/>
+        <tag k="tiger:AREAID" v="110809876459"/>
+        <tag k="tiger:AWATER" v="0"/>
+        <tag k="tiger:COUNTYFP" v="083"/>
+        <tag k="tiger:STATEFP" v="06"/>
+        <tag k="tiger:reviewed" v="no"/>
+      </way>
+    </old>
+    <new>
+      <way id="44580843" version="7" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="3556285527" lon="-119.7113862" lat="34.417026"/>
+        <nd ref="7739959359" lon="-119.7113773" lat="34.416996"/>
+        <nd ref="358848403" lon="-119.7117292" lat="34.4166658"/>
+        <nd ref="7739959361" lon="-119.7117569" lat="34.4166104"/>
+        <nd ref="3556285528" lon="-119.7118172" lat="34.4165614"/>
+        <nd ref="566111811" lon="-119.7130323" lat="34.4173882"/>
+        <nd ref="3556285526" lon="-119.7125326" lat="34.4178982"/>
+        <nd ref="3556285527" lon="-119.7113862" lat="34.417026"/>
+        <tag k="ele" v="16"/>
+        <tag k="gnis:feature_id" v="1871912"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Bohnett Park"/>
+        <tag k="source" v="Tiger2009"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="44580927" version="9" user="ZeLonewolf" uid="219297" timestamp="2021-04-02T16:07:12Z" changeset="102204566">
+        <bounds minlat="34.4459267" minlon="-119.8466322" maxlat="34.450971" maxlon="-119.8451623"/>
+        <nd ref="4039755033" lon="-119.8466322" lat="34.4490799"/>
+        <nd ref="4039755021" lon="-119.8466188" lat="34.4495311"/>
+        <nd ref="4039755023" lon="-119.8465115" lat="34.4500531"/>
+        <nd ref="4039755030" lon="-119.8465088" lat="34.4503627"/>
+        <nd ref="4039755032" lon="-119.8466134" lat="34.4507542"/>
+        <nd ref="4039755027" lon="-119.8465732" lat="34.4508361"/>
+        <nd ref="4039755031" lon="-119.8460474" lat="34.4509422"/>
+        <nd ref="566110509" lon="-119.8451623" lat="34.450971"/>
+        <nd ref="1672505871" lon="-119.8452298" lat="34.4496621"/>
+        <nd ref="1672505881" lon="-119.8454092" lat="34.4490357"/>
+        <nd ref="1672505865" lon="-119.8457069" lat="34.4482859"/>
+        <nd ref="1672505884" lon="-119.8459462" lat="34.447615"/>
+        <nd ref="1672505874" lon="-119.8459832" lat="34.4471777"/>
+        <nd ref="1672505872" lon="-119.8458467" lat="34.4465765"/>
+        <nd ref="1672505880" lon="-119.8454521" lat="34.4459988"/>
+        <nd ref="4039755025" lon="-119.845602" lat="34.4459267"/>
+        <nd ref="4039755026" lon="-119.8458691" lat="34.4461383"/>
+        <nd ref="4039755022" lon="-119.8462443" lat="34.4465629"/>
+        <nd ref="4039755029" lon="-119.8463204" lat="34.446727"/>
+        <nd ref="4039755024" lon="-119.8463511" lat="34.4468696"/>
+        <nd ref="4039755028" lon="-119.8465399" lat="34.4483057"/>
+        <nd ref="4039755033" lon="-119.8466322" lat="34.4490799"/>
+        <tag k="Tiger:MTFCC" v="K2180"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Stow Grove Park"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="tiger:ALAND" v="76867"/>
+        <tag k="tiger:AREAID" v="110809876550"/>
+        <tag k="tiger:AWATER" v="0"/>
+        <tag k="tiger:COUNTYFP" v="083"/>
+        <tag k="tiger:STATEFP" v="06"/>
+      </way>
+    </old>
+    <new>
+      <way id="44580927" version="10" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="4039755033" lon="-119.8466322" lat="34.4490799"/>
+        <nd ref="4039755021" lon="-119.8466188" lat="34.4495311"/>
+        <nd ref="4039755023" lon="-119.8465115" lat="34.4500531"/>
+        <nd ref="4039755030" lon="-119.8465088" lat="34.4503627"/>
+        <nd ref="4039755032" lon="-119.8466134" lat="34.4507542"/>
+        <nd ref="4039755027" lon="-119.8465732" lat="34.4508361"/>
+        <nd ref="4039755031" lon="-119.8460474" lat="34.4509422"/>
+        <nd ref="566110509" lon="-119.8451623" lat="34.450971"/>
+        <nd ref="1672505871" lon="-119.8452298" lat="34.4496621"/>
+        <nd ref="1672505881" lon="-119.8454092" lat="34.4490357"/>
+        <nd ref="358822491" lon="-119.8457069" lat="34.4482859"/>
+        <nd ref="1672505884" lon="-119.8459462" lat="34.447615"/>
+        <nd ref="1672505874" lon="-119.8459832" lat="34.4471777"/>
+        <nd ref="1672505872" lon="-119.8458467" lat="34.4465765"/>
+        <nd ref="1672505880" lon="-119.8454521" lat="34.4459988"/>
+        <nd ref="4039755025" lon="-119.845602" lat="34.4459267"/>
+        <nd ref="4039755026" lon="-119.8458691" lat="34.4461383"/>
+        <nd ref="4039755022" lon="-119.8462443" lat="34.4465629"/>
+        <nd ref="4039755029" lon="-119.8463204" lat="34.446727"/>
+        <nd ref="4039755024" lon="-119.8463511" lat="34.4468696"/>
+        <nd ref="4039755028" lon="-119.8465399" lat="34.4483057"/>
+        <nd ref="4039755033" lon="-119.8466322" lat="34.4490799"/>
+        <tag k="ele" v="27"/>
+        <tag k="gnis:feature_id" v="1702898"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Stow Grove Park"/>
+        <tag k="source" v="Tiger2009"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="44580938" version="4" user="ZeLonewolf" uid="219297" timestamp="2021-04-02T16:07:12Z" changeset="102204566">
+        <bounds minlat="34.424477" minlon="-119.67755" maxlat="34.425275" maxlon="-119.676555"/>
+        <nd ref="566114066" lon="-119.67755" lat="34.425014"/>
+        <nd ref="7904506758" lon="-119.6774283" lat="34.4251274"/>
+        <nd ref="566114065" lon="-119.677417" lat="34.425138"/>
+        <nd ref="566114064" lon="-119.677272" lat="34.425275"/>
+        <nd ref="566114063" lon="-119.676555" lat="34.424759"/>
+        <nd ref="566114067" lon="-119.676823" lat="34.424477"/>
+        <nd ref="566114066" lon="-119.67755" lat="34.425014"/>
+        <tag k="Tiger:MTFCC" v="K2180"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Sunflower Park"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="tiger:ALAND" v="3463"/>
+        <tag k="tiger:AREAID" v="110809876517"/>
+        <tag k="tiger:AWATER" v="0"/>
+        <tag k="tiger:COUNTYFP" v="083"/>
+        <tag k="tiger:STATEFP" v="06"/>
+        <tag k="tiger:reviewed" v="no"/>
+      </way>
+    </old>
+    <new>
+      <way id="44580938" version="5" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="566114066" lon="-119.67755" lat="34.425014"/>
+        <nd ref="7904506758" lon="-119.6774283" lat="34.4251274"/>
+        <nd ref="566114065" lon="-119.677417" lat="34.425138"/>
+        <nd ref="566114064" lon="-119.677272" lat="34.425275"/>
+        <nd ref="566114063" lon="-119.676555" lat="34.424759"/>
+        <nd ref="566114067" lon="-119.676823" lat="34.424477"/>
+        <nd ref="566114066" lon="-119.67755" lat="34.425014"/>
+        <tag k="ele" v="12"/>
+        <tag k="gnis:feature_id" v="1872091"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Sunflower Park"/>
+        <tag k="source" v="Tiger2009"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="44580984" version="6" user="chosayan" uid="11705204" timestamp="2021-04-14T14:17:23Z" changeset="102935933">
+        <bounds minlat="34.411132" minlon="-119.725339" maxlat="34.413009" maxlon="-119.723811"/>
+        <nd ref="165426354" lon="-119.724517" lat="34.411132"/>
+        <nd ref="165426356" lon="-119.724722" lat="34.411287"/>
+        <nd ref="165426358" lon="-119.725041" lat="34.41151"/>
+        <nd ref="8629384664" lon="-119.7251325" lat="34.4115708"/>
+        <nd ref="165426359" lon="-119.725241" lat="34.411643"/>
+        <nd ref="165426360" lon="-119.725273" lat="34.411671"/>
+        <nd ref="4798549945" lon="-119.7252819" lat="34.4116832"/>
+        <nd ref="165426361" lon="-119.725319" lat="34.411734"/>
+        <nd ref="165426363" lon="-119.725332" lat="34.411767"/>
+        <nd ref="165426365" lon="-119.725339" lat="34.411801"/>
+        <nd ref="165426367" lon="-119.725332" lat="34.411869"/>
+        <nd ref="165426369" lon="-119.725315" lat="34.411913"/>
+        <nd ref="566111798" lon="-119.725031" lat="34.412271"/>
+        <nd ref="566111797" lon="-119.72433" lat="34.413009"/>
+        <nd ref="4798550001" lon="-119.7241934" lat="34.4127564"/>
+        <nd ref="4798550903" lon="-119.7240699" lat="34.4125279"/>
+        <nd ref="4798550918" lon="-119.723811" lat="34.412049"/>
+        <nd ref="4798549944" lon="-119.7241131" lat="34.4116566"/>
+        <nd ref="165426354" lon="-119.724517" lat="34.411132"/>
+        <tag k="Tiger:MTFCC" v="K2180"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Hilda Ray Park"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="tiger:ALAND" v="15333"/>
+        <tag k="tiger:AREAID" v="110809876502"/>
+        <tag k="tiger:AWATER" v="0"/>
+        <tag k="tiger:COUNTYFP" v="083"/>
+        <tag k="tiger:STATEFP" v="06"/>
+        <tag k="tiger:reviewed" v="no"/>
+      </way>
+    </old>
+    <new>
+      <way id="44580984" version="7" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="165426354" lon="-119.724517" lat="34.411132"/>
+        <nd ref="165426356" lon="-119.724722" lat="34.411287"/>
+        <nd ref="165426358" lon="-119.725041" lat="34.41151"/>
+        <nd ref="8629384664" lon="-119.7251325" lat="34.4115708"/>
+        <nd ref="165426359" lon="-119.725241" lat="34.411643"/>
+        <nd ref="165426360" lon="-119.725273" lat="34.411671"/>
+        <nd ref="4798549945" lon="-119.7252819" lat="34.4116832"/>
+        <nd ref="165426361" lon="-119.725319" lat="34.411734"/>
+        <nd ref="165426363" lon="-119.725332" lat="34.411767"/>
+        <nd ref="165426365" lon="-119.725339" lat="34.411801"/>
+        <nd ref="165426367" lon="-119.725332" lat="34.411869"/>
+        <nd ref="165426369" lon="-119.725315" lat="34.411913"/>
+        <nd ref="566111798" lon="-119.725031" lat="34.412271"/>
+        <nd ref="566111797" lon="-119.72433" lat="34.413009"/>
+        <nd ref="4798550001" lon="-119.7241934" lat="34.4127564"/>
+        <nd ref="4798550903" lon="-119.7240699" lat="34.4125279"/>
+        <nd ref="4798550918" lon="-119.723811" lat="34.412049"/>
+        <nd ref="4798549944" lon="-119.7241131" lat="34.4116566"/>
+        <nd ref="165426354" lon="-119.724517" lat="34.411132"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Hilda Ray Park"/>
+        <tag k="source" v="Tiger2009"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="44581000" version="10" user="ZeLonewolf" uid="219297" timestamp="2021-04-02T16:07:12Z" changeset="102204566">
+        <bounds minlat="34.4248408" minlon="-119.726545" maxlat="34.4262488" maxlon="-119.7251249"/>
+        <nd ref="7739894519" lon="-119.726519" lat="34.4248408"/>
+        <nd ref="7739924896" lon="-119.7265438" lat="34.4252468"/>
+        <nd ref="7739924895" lon="-119.726545" lat="34.4255241"/>
+        <nd ref="7739924894" lon="-119.7265103" lat="34.4256441"/>
+        <nd ref="7739924890" lon="-119.7262327" lat="34.4256935"/>
+        <nd ref="7739924891" lon="-119.7263169" lat="34.4261047"/>
+        <nd ref="4909141156" lon="-119.726307" lat="34.4261866"/>
+        <nd ref="165384377" lon="-119.7259584" lat="34.4262488"/>
+        <nd ref="566111834" lon="-119.7251249" lat="34.4261059"/>
+        <nd ref="566111816" lon="-119.7257203" lat="34.4255284"/>
+        <nd ref="7739894521" lon="-119.7256421" lat="34.4254041"/>
+        <nd ref="4909141192" lon="-119.7255866" lat="34.424935"/>
+        <nd ref="7739894519" lon="-119.726519" lat="34.4248408"/>
+        <tag k="Tiger:MTFCC" v="K2180"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Pilgrim Terrace Park"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="tiger:ALAND" v="16071"/>
+        <tag k="tiger:AREAID" v="110809876608"/>
+        <tag k="tiger:AWATER" v="0"/>
+        <tag k="tiger:COUNTYFP" v="083"/>
+        <tag k="tiger:STATEFP" v="06"/>
+        <tag k="tiger:reviewed" v="no"/>
+      </way>
+    </old>
+    <new>
+      <way id="44581000" version="11" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="7739894519" lon="-119.726519" lat="34.4248408"/>
+        <nd ref="7739924896" lon="-119.7265438" lat="34.4252468"/>
+        <nd ref="7739924895" lon="-119.726545" lat="34.4255241"/>
+        <nd ref="7739924894" lon="-119.7265103" lat="34.4256441"/>
+        <nd ref="7739924890" lon="-119.7262327" lat="34.4256935"/>
+        <nd ref="7739924891" lon="-119.7263169" lat="34.4261047"/>
+        <nd ref="4909141156" lon="-119.726307" lat="34.4261866"/>
+        <nd ref="358848458" lon="-119.7259584" lat="34.4262488"/>
+        <nd ref="566111834" lon="-119.7251249" lat="34.4261059"/>
+        <nd ref="566111816" lon="-119.7257203" lat="34.4255284"/>
+        <nd ref="7739894521" lon="-119.7256421" lat="34.4254041"/>
+        <nd ref="4909141192" lon="-119.7255866" lat="34.424935"/>
+        <nd ref="7739894519" lon="-119.726519" lat="34.4248408"/>
+        <tag k="ele" v="37"/>
+        <tag k="gnis:feature_id" v="1871953"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Pilgrim Terrace Park"/>
+        <tag k="source" v="Tiger2009"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="349829207" version="4" user="Clarke22" uid="703694" timestamp="2024-05-03T07:11:45Z" changeset="150822727">
+        <bounds minlat="34.4213868" minlon="-119.7078758" maxlat="34.4231045" maxlon="-119.7057904"/>
+        <nd ref="11875906855" lon="-119.7057946" lat="34.4223118"/>
+        <nd ref="11875906856" lon="-119.7057904" lat="34.4222648"/>
+        <nd ref="11875906857" lon="-119.7067369" lat="34.4213868"/>
+        <nd ref="11875906858" lon="-119.7067676" lat="34.4213924"/>
+        <nd ref="11875906866" lon="-119.7078758" lat="34.4221809"/>
+        <nd ref="11875906868" lon="-119.7068985" lat="34.4231042"/>
+        <nd ref="11875906867" lon="-119.7068801" lat="34.4231045"/>
+        <nd ref="11875906855" lon="-119.7057946" lat="34.4223118"/>
+        <tag k="Tiger:MTFCC" v="K2180"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Spencer Adams Park"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="tiger:ALAND" v="24683"/>
+        <tag k="tiger:AREAID" v="110809876595"/>
+        <tag k="tiger:AWATER" v="0"/>
+        <tag k="tiger:COUNTYFP" v="083"/>
+        <tag k="tiger:STATEFP" v="06"/>
+        <tag k="tiger:reviewed" v="no"/>
+      </way>
+    </old>
+    <new>
+      <way id="349829207" version="5" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="11875906855" lon="-119.7057946" lat="34.4223118"/>
+        <nd ref="11875906856" lon="-119.7057904" lat="34.4222648"/>
+        <nd ref="11875906857" lon="-119.7067369" lat="34.4213868"/>
+        <nd ref="358848587" lon="-119.7067676" lat="34.4213924"/>
+        <nd ref="11875906866" lon="-119.7078758" lat="34.4221809"/>
+        <nd ref="11875906868" lon="-119.7068985" lat="34.4231042"/>
+        <nd ref="11875906867" lon="-119.7068801" lat="34.4231045"/>
+        <nd ref="11875906855" lon="-119.7057946" lat="34.4223118"/>
+        <tag k="ele" v="24"/>
+        <tag k="gnis:feature_id" v="1872088"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Spencer Adams Park"/>
+        <tag k="source" v="Tiger2009"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="349829214" version="3" user="ZeLonewolf" uid="219297" timestamp="2021-04-02T16:07:12Z" changeset="102204566">
+        <bounds minlat="34.419662" minlon="-119.6990561" maxlat="34.4202135" maxlon="-119.6983378"/>
+        <nd ref="3556221154" lon="-119.6990561" lat="34.4200548"/>
+        <nd ref="3556221153" lon="-119.698894" lat="34.4202135"/>
+        <nd ref="3556221149" lon="-119.6983659" lat="34.4198319"/>
+        <nd ref="3556221140" lon="-119.6983452" lat="34.4198048"/>
+        <nd ref="3556221160" lon="-119.6983378" lat="34.4197805"/>
+        <nd ref="3556221159" lon="-119.6983411" lat="34.4197451"/>
+        <nd ref="3556221158" lon="-119.6983506" lat="34.41972"/>
+        <nd ref="3556221161" lon="-119.6983667" lat="34.4197"/>
+        <nd ref="3556222199" lon="-119.6983915" lat="34.4196808"/>
+        <nd ref="3556221141" lon="-119.6984146" lat="34.4196708"/>
+        <nd ref="3556221155" lon="-119.6984438" lat="34.4196635"/>
+        <nd ref="3556221173" lon="-119.6984723" lat="34.419662"/>
+        <nd ref="3556221181" lon="-119.6985033" lat="34.419669"/>
+        <nd ref="3556221157" lon="-119.6985336" lat="34.4196821"/>
+        <nd ref="3556221154" lon="-119.6990561" lat="34.4200548"/>
+        <tag k="Tiger:MTFCC" v="K2180"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="De la Guerra Plaza"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="tiger:ALAND" v="2480"/>
+        <tag k="tiger:AREAID" v="110809877807"/>
+        <tag k="tiger:AWATER" v="0"/>
+        <tag k="tiger:COUNTYFP" v="083"/>
+        <tag k="tiger:STATEFP" v="06"/>
+        <tag k="tiger:reviewed" v="no"/>
+      </way>
+    </old>
+    <new>
+      <way id="349829214" version="4" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="3556221154" lon="-119.6990561" lat="34.4200548"/>
+        <nd ref="358848489" lon="-119.698894" lat="34.4202135"/>
+        <nd ref="3556221149" lon="-119.6983659" lat="34.4198319"/>
+        <nd ref="3556221140" lon="-119.6983452" lat="34.4198048"/>
+        <nd ref="3556221160" lon="-119.6983378" lat="34.4197805"/>
+        <nd ref="3556221159" lon="-119.6983411" lat="34.4197451"/>
+        <nd ref="3556221158" lon="-119.6983506" lat="34.41972"/>
+        <nd ref="3556221161" lon="-119.6983667" lat="34.4197"/>
+        <nd ref="3556222199" lon="-119.6983915" lat="34.4196808"/>
+        <nd ref="3556221141" lon="-119.6984146" lat="34.4196708"/>
+        <nd ref="3556221155" lon="-119.6984438" lat="34.4196635"/>
+        <nd ref="3556221173" lon="-119.6984723" lat="34.419662"/>
+        <nd ref="3556221181" lon="-119.6985033" lat="34.419669"/>
+        <nd ref="3556221157" lon="-119.6985336" lat="34.4196821"/>
+        <nd ref="3556221154" lon="-119.6990561" lat="34.4200548"/>
+        <tag k="alt_name" v="City Hall Plaza"/>
+        <tag k="ele" v="15"/>
+        <tag k="gnis:feature_id" v="1871984"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="De la Guerra Plaza"/>
+        <tag k="source" v="Tiger2009"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="377468416" version="6" user="ForTheSmurfs" uid="7417568" timestamp="2023-11-29T22:26:43Z" changeset="144605909">
+        <bounds minlat="34.4378534" minlon="-119.7341139" maxlat="34.4402517" maxlon="-119.7301098"/>
+        <nd ref="3808417159" lon="-119.7337346" lat="34.4382763"/>
+        <nd ref="3808417167" lon="-119.7338045" lat="34.4385003"/>
+        <nd ref="3808417166" lon="-119.7339263" lat="34.4388666"/>
+        <nd ref="3808417165" lon="-119.7340619" lat="34.4393298"/>
+        <nd ref="3808417164" lon="-119.7341139" lat="34.4396421"/>
+        <nd ref="9800659359" lon="-119.7338681" lat="34.4396483"/>
+        <nd ref="3808417161" lon="-119.7332794" lat="34.4396627"/>
+        <nd ref="11384631136" lon="-119.7323552" lat="34.4396645"/>
+        <nd ref="11384631137" lon="-119.7323529" lat="34.4399648"/>
+        <nd ref="11384631138" lon="-119.7322442" lat="34.4399652"/>
+        <nd ref="11384631139" lon="-119.7322382" lat="34.4402517"/>
+        <nd ref="3808417158" lon="-119.7305272" lat="34.4402364"/>
+        <nd ref="3808417157" lon="-119.7302969" lat="34.4402073"/>
+        <nd ref="9800659348" lon="-119.7301098" lat="34.4401236"/>
+        <nd ref="9800659345" lon="-119.7313994" lat="34.4394687"/>
+        <nd ref="9800659349" lon="-119.732728" lat="34.438787"/>
+        <nd ref="9800659350" lon="-119.732472" lat="34.4384406"/>
+        <nd ref="9800659353" lon="-119.7331822" lat="34.4380718"/>
+        <nd ref="3808417194" lon="-119.7335976" lat="34.437856"/>
+        <nd ref="9800659351" lon="-119.7336027" lat="34.4378534"/>
+        <nd ref="3808417159" lon="-119.7337346" lat="34.4382763"/>
+        <tag k="Tiger:MTFCC" v="K2180"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Mackenzie Park"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="tiger:ALAND" v="74255"/>
+        <tag k="tiger:AREAID" v="110809876506"/>
+        <tag k="tiger:AWATER" v="0"/>
+        <tag k="tiger:COUNTYFP" v="083"/>
+        <tag k="tiger:STATEFP" v="06"/>
+        <tag k="tiger:reviewed" v="no"/>
+      </way>
+    </old>
+    <new>
+      <way id="377468416" version="7" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="3808417159" lon="-119.7337346" lat="34.4382763"/>
+        <nd ref="3808417167" lon="-119.7338045" lat="34.4385003"/>
+        <nd ref="3808417166" lon="-119.7339263" lat="34.4388666"/>
+        <nd ref="3808417165" lon="-119.7340619" lat="34.4393298"/>
+        <nd ref="3808417164" lon="-119.7341139" lat="34.4396421"/>
+        <nd ref="9800659359" lon="-119.7338681" lat="34.4396483"/>
+        <nd ref="3808417161" lon="-119.7332794" lat="34.4396627"/>
+        <nd ref="358848443" lon="-119.7323552" lat="34.4396645"/>
+        <nd ref="11384631137" lon="-119.7323529" lat="34.4399648"/>
+        <nd ref="11384631138" lon="-119.7322442" lat="34.4399652"/>
+        <nd ref="11384631139" lon="-119.7322382" lat="34.4402517"/>
+        <nd ref="3808417158" lon="-119.7305272" lat="34.4402364"/>
+        <nd ref="3808417157" lon="-119.7302969" lat="34.4402073"/>
+        <nd ref="9800659348" lon="-119.7301098" lat="34.4401236"/>
+        <nd ref="9800659345" lon="-119.7313994" lat="34.4394687"/>
+        <nd ref="9800659349" lon="-119.732728" lat="34.438787"/>
+        <nd ref="9800659350" lon="-119.732472" lat="34.4384406"/>
+        <nd ref="9800659353" lon="-119.7331822" lat="34.4380718"/>
+        <nd ref="3808417194" lon="-119.7335976" lat="34.437856"/>
+        <nd ref="9800659351" lon="-119.7336027" lat="34.4378534"/>
+        <nd ref="3808417159" lon="-119.7337346" lat="34.4382763"/>
+        <tag k="ele" v="73"/>
+        <tag k="gnis:feature_id" v="1871942"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="MacKenzie Park"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="website" v="https://sbparksandrec.santabarbaraca.gov/parks/mackenzie-park"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="377468418" version="5" user="Clarke22" uid="703694" timestamp="2022-06-07T05:26:56Z" changeset="122051270">
+        <bounds minlat="34.4273228" minlon="-119.7284301" maxlat="34.4321742" maxlon="-119.7263076"/>
+        <nd ref="3808417203" lon="-119.7271292" lat="34.4321742"/>
+        <nd ref="3808417207" lon="-119.7272166" lat="34.4321742"/>
+        <nd ref="3808417206" lon="-119.7273004" lat="34.4321653"/>
+        <nd ref="3808417205" lon="-119.727369" lat="34.4321424"/>
+        <nd ref="3808417204" lon="-119.7274009" lat="34.4321277"/>
+        <nd ref="3808417198" lon="-119.7274633" lat="34.4320852"/>
+        <nd ref="3808417202" lon="-119.7274901" lat="34.432061"/>
+        <nd ref="3808417200" lon="-119.7275451" lat="34.432001"/>
+        <nd ref="3808417197" lon="-119.727644" lat="34.4319113"/>
+        <nd ref="3808417208" lon="-119.7277391" lat="34.431837"/>
+        <nd ref="3808415227" lon="-119.7277638" lat="34.4318123"/>
+        <nd ref="3808415255" lon="-119.7278" lat="34.4317494"/>
+        <nd ref="3808415254" lon="-119.7278071" lat="34.4317179"/>
+        <nd ref="3808417230" lon="-119.7278251" lat="34.4314103"/>
+        <nd ref="3808417228" lon="-119.7278469" lat="34.4313278"/>
+        <nd ref="3808417229" lon="-119.7278814" lat="34.43125"/>
+        <nd ref="3808417175" lon="-119.7279299" lat="34.4311757"/>
+        <nd ref="3808417174" lon="-119.7279892" lat="34.4311077"/>
+        <nd ref="3808417173" lon="-119.7280595" lat="34.4310482"/>
+        <nd ref="3808417171" lon="-119.7281398" lat="34.4309968"/>
+        <nd ref="3808417169" lon="-119.7281889" lat="34.4309723"/>
+        <nd ref="3808417184" lon="-119.7282771" lat="34.4309526"/>
+        <nd ref="3808417182" lon="-119.7283169" lat="34.4309502"/>
+        <nd ref="3808417181" lon="-119.7283757" lat="34.4309481"/>
+        <nd ref="3808417172" lon="-119.7284301" lat="34.430953"/>
+        <nd ref="3808417170" lon="-119.7284222" lat="34.4309506"/>
+        <nd ref="3808417168" lon="-119.7283317" lat="34.4306146"/>
+        <nd ref="3808417183" lon="-119.7282046" lat="34.4302697"/>
+        <nd ref="3808417212" lon="-119.7280232" lat="34.4299523"/>
+        <nd ref="3808417211" lon="-119.7278595" lat="34.4297211"/>
+        <nd ref="4798550977" lon="-119.7281359" lat="34.42932"/>
+        <nd ref="4798550978" lon="-119.7282333" lat="34.4284039"/>
+        <nd ref="7739959335" lon="-119.7282091" lat="34.4278991"/>
+        <nd ref="4798550979" lon="-119.727958" lat="34.4274816"/>
+        <nd ref="3808417213" lon="-119.7277905" lat="34.4273228"/>
+        <nd ref="9800410095" lon="-119.7263076" lat="34.428691"/>
+        <nd ref="3808415237" lon="-119.7263094" lat="34.4287644"/>
+        <nd ref="9800410098" lon="-119.7270167" lat="34.4293231"/>
+        <nd ref="9800410097" lon="-119.7270952" lat="34.4294525"/>
+        <nd ref="9800410099" lon="-119.7271536" lat="34.4296479"/>
+        <nd ref="9800410100" lon="-119.7271616" lat="34.4297679"/>
+        <nd ref="9800410102" lon="-119.7271375" lat="34.4298936"/>
+        <nd ref="9800659518" lon="-119.7267585" lat="34.4310467"/>
+        <nd ref="9800410111" lon="-119.7265605" lat="34.4320186"/>
+        <nd ref="9800410113" lon="-119.7266119" lat="34.4320886"/>
+        <nd ref="3808417203" lon="-119.7271292" lat="34.4321742"/>
+        <tag k="Tiger:MTFCC" v="K2180"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Oak Park"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="tiger:ALAND" v="65810"/>
+        <tag k="tiger:AREAID" v="110809876426"/>
+        <tag k="tiger:AWATER" v="0"/>
+        <tag k="tiger:COUNTYFP" v="083"/>
+        <tag k="tiger:STATEFP" v="06"/>
+      </way>
+    </old>
+    <new>
+      <way id="377468418" version="6" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="3808417203" lon="-119.7271292" lat="34.4321742"/>
+        <nd ref="3808417207" lon="-119.7272166" lat="34.4321742"/>
+        <nd ref="3808417206" lon="-119.7273004" lat="34.4321653"/>
+        <nd ref="3808417205" lon="-119.727369" lat="34.4321424"/>
+        <nd ref="3808417204" lon="-119.7274009" lat="34.4321277"/>
+        <nd ref="3808417198" lon="-119.7274633" lat="34.4320852"/>
+        <nd ref="3808417202" lon="-119.7274901" lat="34.432061"/>
+        <nd ref="3808417200" lon="-119.7275451" lat="34.432001"/>
+        <nd ref="3808417197" lon="-119.727644" lat="34.4319113"/>
+        <nd ref="3808417208" lon="-119.7277391" lat="34.431837"/>
+        <nd ref="3808415227" lon="-119.7277638" lat="34.4318123"/>
+        <nd ref="3808415255" lon="-119.7278" lat="34.4317494"/>
+        <nd ref="3808415254" lon="-119.7278071" lat="34.4317179"/>
+        <nd ref="3808417230" lon="-119.7278251" lat="34.4314103"/>
+        <nd ref="3808417228" lon="-119.7278469" lat="34.4313278"/>
+        <nd ref="3808417229" lon="-119.7278814" lat="34.43125"/>
+        <nd ref="3808417175" lon="-119.7279299" lat="34.4311757"/>
+        <nd ref="3808417174" lon="-119.7279892" lat="34.4311077"/>
+        <nd ref="3808417173" lon="-119.7280595" lat="34.4310482"/>
+        <nd ref="3808417171" lon="-119.7281398" lat="34.4309968"/>
+        <nd ref="3808417169" lon="-119.7281889" lat="34.4309723"/>
+        <nd ref="3808417184" lon="-119.7282771" lat="34.4309526"/>
+        <nd ref="3808417182" lon="-119.7283169" lat="34.4309502"/>
+        <nd ref="3808417181" lon="-119.7283757" lat="34.4309481"/>
+        <nd ref="3808417172" lon="-119.7284301" lat="34.430953"/>
+        <nd ref="3808417170" lon="-119.7284222" lat="34.4309506"/>
+        <nd ref="3808417168" lon="-119.7283317" lat="34.4306146"/>
+        <nd ref="3808417183" lon="-119.7282046" lat="34.4302697"/>
+        <nd ref="3808417212" lon="-119.7280232" lat="34.4299523"/>
+        <nd ref="3808417211" lon="-119.7278595" lat="34.4297211"/>
+        <nd ref="4798550977" lon="-119.7281359" lat="34.42932"/>
+        <nd ref="4798550978" lon="-119.7282333" lat="34.4284039"/>
+        <nd ref="7739959335" lon="-119.7282091" lat="34.4278991"/>
+        <nd ref="4798550979" lon="-119.727958" lat="34.4274816"/>
+        <nd ref="3808417213" lon="-119.7277905" lat="34.4273228"/>
+        <nd ref="9800410095" lon="-119.7263076" lat="34.428691"/>
+        <nd ref="3808415237" lon="-119.7263094" lat="34.4287644"/>
+        <nd ref="9800410098" lon="-119.7270167" lat="34.4293231"/>
+        <nd ref="358789930" lon="-119.7270952" lat="34.4294525"/>
+        <nd ref="9800410099" lon="-119.7271536" lat="34.4296479"/>
+        <nd ref="9800410100" lon="-119.7271616" lat="34.4297679"/>
+        <nd ref="9800410102" lon="-119.7271375" lat="34.4298936"/>
+        <nd ref="9800659518" lon="-119.7267585" lat="34.4310467"/>
+        <nd ref="9800410111" lon="-119.7265605" lat="34.4320186"/>
+        <nd ref="9800410113" lon="-119.7266119" lat="34.4320886"/>
+        <nd ref="3808417203" lon="-119.7271292" lat="34.4321742"/>
+        <tag k="ele" v="47"/>
+        <tag k="gnis:feature_id" v="246746"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Oak Park"/>
+        <tag k="source" v="Tiger2009"/>
+      </way>
+    </new>
+  </action>
+  <action type="delete">
+    <old>
+      <way id="654363167" version="1" user="TimLyles" uid="9225236" timestamp="2018-12-12T00:21:28Z" changeset="65392455">
+        <bounds minlat="34.4103717" minlon="-119.6923006" maxlat="34.4109823" maxlon="-119.6915104"/>
+        <nd ref="3556282383" lon="-119.6923006" lat="34.4108276"/>
+        <nd ref="3556282378" lon="-119.6921357" lat="34.4109823"/>
+        <nd ref="3556282384" lon="-119.6915104" lat="34.4105243"/>
+        <nd ref="3556282377" lon="-119.691674" lat="34.4103717"/>
+        <nd ref="3556282383" lon="-119.6923006" lat="34.4108276"/>
+        <tag k="leisure" v="park"/>
+      </way>
+    </old>
+    <new>
+      <way id="654363167" version="2" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716" visible="false"/>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <way id="894406057" version="2" user="ZeLonewolf" uid="219297" timestamp="2021-04-02T16:07:12Z" changeset="102204566">
+        <bounds minlat="34.4102117" minlon="-119.7284598" maxlat="34.4115822" maxlon="-119.7272102"/>
+        <nd ref="8313225852" lon="-119.7272102" lat="34.4112811"/>
+        <nd ref="8313225853" lon="-119.727821" lat="34.4102117"/>
+        <nd ref="8313225854" lon="-119.7279923" lat="34.4103921"/>
+        <nd ref="8313225855" lon="-119.7280823" lat="34.4104649"/>
+        <nd ref="8313225856" lon="-119.7282969" lat="34.4106067"/>
+        <nd ref="8313225857" lon="-119.7284598" lat="34.410666"/>
+        <nd ref="8313225858" lon="-119.7279692" lat="34.4115822"/>
+        <nd ref="8313225852" lon="-119.7272102" lat="34.4112811"/>
+        <tag k="Tiger:MTFCC" v="K2180"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Escondido Park"/>
+        <tag k="source" v="Tiger2009"/>
+        <tag k="tiger:ALAND" v="5661"/>
+        <tag k="tiger:AREAID" v="110809876499"/>
+        <tag k="tiger:AWATER" v="1529"/>
+        <tag k="tiger:COUNTYFP" v="083"/>
+        <tag k="tiger:STATEFP" v="06"/>
+        <tag k="tiger:reviewed" v="no"/>
+      </way>
+    </old>
+    <new>
+      <way id="894406057" version="3" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <nd ref="8313225852" lon="-119.7272102" lat="34.4112811"/>
+        <nd ref="8313225853" lon="-119.727821" lat="34.4102117"/>
+        <nd ref="8313225854" lon="-119.7279923" lat="34.4103921"/>
+        <nd ref="8313225855" lon="-119.7280823" lat="34.4104649"/>
+        <nd ref="8313225856" lon="-119.7282969" lat="34.4106067"/>
+        <nd ref="8313225857" lon="-119.7284598" lat="34.410666"/>
+        <nd ref="358848409" lon="-119.7279692" lat="34.4115822"/>
+        <nd ref="8313225852" lon="-119.7272102" lat="34.4112811"/>
+        <tag k="ele" v="96"/>
+        <tag k="gnis:feature_id" v="1871918"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="Escondido Park"/>
+        <tag k="source" v="Tiger2009"/>
+      </way>
+    </new>
+  </action>
+  <action type="modify">
+    <old>
+      <relation id="3335922" version="3" user="Edward" uid="364" timestamp="2016-10-14T19:18:14Z" changeset="42904262">
+        <bounds minlat="34.421587" minlon="-119.6999452" maxlat="34.4237351" maxlon="-119.6970226"/>
+        <member ref="40118629" role="outer" type="way">
+          <nd lon="-119.6972951" lat="34.4224775"/>
+          <nd lon="-119.6972294" lat="34.4225394"/>
+          <nd lon="-119.6970226" lat="34.422389"/>
+          <nd lon="-119.6973516" lat="34.4220787"/>
+          <nd lon="-119.6978074" lat="34.4224107"/>
+          <nd lon="-119.6979071" lat="34.4224833"/>
+          <nd lon="-119.697644" lat="34.4227312"/>
+          <nd lon="-119.6972951" lat="34.4224775"/>
+        </member>
+        <member ref="40118630" role="outer" type="way">
+          <nd lon="-119.6983563" lat="34.4237351"/>
+          <nd lon="-119.6981293" lat="34.4235743"/>
+          <nd lon="-119.6980884" lat="34.423613"/>
+          <nd lon="-119.697738" lat="34.4233569"/>
+          <nd lon="-119.6983208" lat="34.4227999"/>
+          <nd lon="-119.6984024" lat="34.422844"/>
+          <nd lon="-119.6985336" lat="34.4227201"/>
+          <nd lon="-119.6984769" lat="34.4226655"/>
+          <nd lon="-119.6994706" lat="34.4217311"/>
+          <nd lon="-119.6999452" lat="34.4220788"/>
+          <nd lon="-119.6996746" lat="34.4223351"/>
+          <nd lon="-119.6998573" lat="34.4224605"/>
+          <nd lon="-119.6996873" lat="34.4226599"/>
+          <nd lon="-119.699408" lat="34.4224882"/>
+          <nd lon="-119.6993385" lat="34.4225726"/>
+          <nd lon="-119.6993881" lat="34.4226024"/>
+          <nd lon="-119.699086" lat="34.4229639"/>
+          <nd lon="-119.6989968" lat="34.4230488"/>
+          <nd lon="-119.6987749" lat="34.4228958"/>
+          <nd lon="-119.6986436" lat="34.4230197"/>
+          <nd lon="-119.6989691" lat="34.4232567"/>
+          <nd lon="-119.698641" lat="34.4235656"/>
+          <nd lon="-119.6985751" lat="34.4235177"/>
+          <nd lon="-119.6983563" lat="34.4237351"/>
+        </member>
+        <member ref="40118631" role="outer" type="way">
+          <nd lon="-119.697744" lat="34.4228038"/>
+          <nd lon="-119.6980067" lat="34.4225558"/>
+          <nd lon="-119.6981561" lat="34.4226647"/>
+          <nd lon="-119.6978933" lat="34.4229125"/>
+          <nd lon="-119.697744" lat="34.4228038"/>
+        </member>
+        <member ref="40118632" role="outer" type="way">
+          <nd lon="-119.6974103" lat="34.4218841"/>
+          <nd lon="-119.6975448" lat="34.4217529"/>
+          <nd lon="-119.6976894" lat="34.421856"/>
+          <nd lon="-119.6979648" lat="34.4216246"/>
+          <nd lon="-119.6979921" lat="34.4216502"/>
+          <nd lon="-119.6980677" lat="34.421587"/>
+          <nd lon="-119.698264" lat="34.4217042"/>
+          <nd lon="-119.6981701" lat="34.4217901"/>
+          <nd lon="-119.6983394" lat="34.4219126"/>
+          <nd lon="-119.697943" lat="34.4222748"/>
+          <nd lon="-119.6974103" lat="34.4218841"/>
+        </member>
+        <member ref="40118628" role="outer" type="way">
+          <nd lon="-119.6986082" lat="34.4221004"/>
+          <nd lon="-119.6987395" lat="34.4219768"/>
+          <nd lon="-119.6988521" lat="34.4220556"/>
+          <nd lon="-119.6987219" lat="34.4221721"/>
+          <nd lon="-119.6986082" lat="34.4221004"/>
+        </member>
+        <tag k="csp:globalid" v="{0412118F-82C6-4D35-97B8-5BCC1243EDCE}"/>
+        <tag k="csp:unitcode" v="575"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="El Presidio de Santa Barbara State Historic Park"/>
+        <tag k="park:type" v="state_historic_park"/>
+        <tag k="type" v="multipolygon"/>
+      </relation>
+    </old>
+    <new>
+      <relation id="3335922" version="4" timestamp="2025-01-25T22:42:49Z" uid="8794039" user="jake-low" changeset="161763716">
+        <member type="way" ref="40118629" role="outer">
+          <nd lon="-119.6972951" lat="34.4224775"/>
+          <nd lon="-119.6972294" lat="34.4225394"/>
+          <nd lon="-119.6970226" lat="34.422389"/>
+          <nd lon="-119.6973516" lat="34.4220787"/>
+          <nd lon="-119.6978074" lat="34.4224107"/>
+          <nd lon="-119.6979071" lat="34.4224833"/>
+          <nd lon="-119.697644" lat="34.4227312"/>
+          <nd lon="-119.6972951" lat="34.4224775"/>
+        </member>
+        <member type="way" ref="40118630" role="outer">
+          <nd lon="-119.6983563" lat="34.4237351"/>
+          <nd lon="-119.6981293" lat="34.4235743"/>
+          <nd lon="-119.6980884" lat="34.423613"/>
+          <nd lon="-119.697738" lat="34.4233569"/>
+          <nd lon="-119.6983208" lat="34.4227999"/>
+          <nd lon="-119.6984024" lat="34.422844"/>
+          <nd lon="-119.6985336" lat="34.4227201"/>
+          <nd lon="-119.6984769" lat="34.4226655"/>
+          <nd lon="-119.6994706" lat="34.4217311"/>
+          <nd lon="-119.6999452" lat="34.4220788"/>
+          <nd lon="-119.6996746" lat="34.4223351"/>
+          <nd lon="-119.6998573" lat="34.4224605"/>
+          <nd lon="-119.6996873" lat="34.4226599"/>
+          <nd lon="-119.699408" lat="34.4224882"/>
+          <nd lon="-119.6993385" lat="34.4225726"/>
+          <nd lon="-119.6993881" lat="34.4226024"/>
+          <nd lon="-119.699086" lat="34.4229639"/>
+          <nd lon="-119.6989968" lat="34.4230488"/>
+          <nd lon="-119.6987749" lat="34.4228958"/>
+          <nd lon="-119.6986436" lat="34.4230197"/>
+          <nd lon="-119.6989691" lat="34.4232567"/>
+          <nd lon="-119.698641" lat="34.4235656"/>
+          <nd lon="-119.6985751" lat="34.4235177"/>
+          <nd lon="-119.6983563" lat="34.4237351"/>
+        </member>
+        <member type="way" ref="40118631" role="outer">
+          <nd lon="-119.697744" lat="34.4228038"/>
+          <nd lon="-119.6980067" lat="34.4225558"/>
+          <nd lon="-119.6981561" lat="34.4226647"/>
+          <nd lon="-119.6978933" lat="34.4229125"/>
+          <nd lon="-119.697744" lat="34.4228038"/>
+        </member>
+        <member type="way" ref="40118632" role="outer">
+          <nd lon="-119.6974103" lat="34.4218841"/>
+          <nd lon="-119.6975448" lat="34.4217529"/>
+          <nd lon="-119.6976894" lat="34.421856"/>
+          <nd lon="-119.6979648" lat="34.4216246"/>
+          <nd lon="-119.6979921" lat="34.4216502"/>
+          <nd lon="-119.6980677" lat="34.421587"/>
+          <nd lon="-119.698264" lat="34.4217042"/>
+          <nd lon="-119.6981701" lat="34.4217901"/>
+          <nd lon="-119.6983394" lat="34.4219126"/>
+          <nd lon="-119.697943" lat="34.4222748"/>
+          <nd lon="-119.6974103" lat="34.4218841"/>
+        </member>
+        <member type="way" ref="40118628" role="outer">
+          <nd lon="-119.6986082" lat="34.4221004"/>
+          <nd lon="-119.6987395" lat="34.4219768"/>
+          <nd lon="-119.6988521" lat="34.4220556"/>
+          <nd lon="-119.6987219" lat="34.4221721"/>
+          <nd lon="-119.6986082" lat="34.4221004"/>
+        </member>
+        <tag k="csp:globalid" v="{0412118F-82C6-4D35-97B8-5BCC1243EDCE}"/>
+        <tag k="csp:unitcode" v="575"/>
+        <tag k="leisure" v="park"/>
+        <tag k="name" v="El Presidio de Santa Barbara State Historic Park"/>
+        <tag k="park:type" v="state_historic_park"/>
+        <tag k="type" v="multipolygon"/>
+        <tag k="website" v="http://www.parks.ca.gov/?page_id=608"/>
+        <tag k="wikidata" v="Q3402430"/>
+        <tag k="wikipedia" v="en:Presidio of Santa Barbara"/>
+      </relation>
+    </new>
+  </action>
+</osm>

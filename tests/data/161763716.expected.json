@@ -1,0 +1,144 @@
+{
+  "ele": [
+    "47",
+    "5",
+    "27",
+    "16",
+    "96",
+    "73",
+    "37",
+    "15",
+    "24",
+    "86",
+    "12"
+  ],
+  "gnis:feature_id": [
+    "246746",
+    "1702868",
+    "1702898",
+    "1871912",
+    "1871918",
+    "1871942",
+    "1871953",
+    "1871984",
+    "1872088",
+    "1871973",
+    "1872091"
+  ],
+  "leisure": [
+    "park"
+  ],
+  "name": [
+    "Oak Park",
+    "Ambassador Park",
+    "Stow Grove Park",
+    "Bohnett Park",
+    "Escondido Park",
+    "McKenzie Park",
+    "Pilgrim Terrace Park",
+    "City Hall Plaza",
+    "Spencer Adams Park",
+    "El Presidio de Santa Barbara State Historic Park",
+    "MacKenzie Park",
+    "Mackenzie Park"
+  ],
+  "attribution": [
+    "CASIL CSP_Opbdys072008"
+  ],
+  "csp:globalid": [
+    "{0412118F-82C6-4D35-97B8-5BCC1243EDCE}"
+  ],
+  "csp:unitcode": [
+    "575"
+  ],
+  "park:type": [
+    "state_historic_park"
+  ],
+  "heritage": [
+    "yes"
+  ],
+  "website": [
+    "http://www.parks.ca.gov/?page_id=608",
+    "https://sbparksandrec.santabarbaraca.gov/parks/willowglen-park",
+    "https://sbparksandrec.santabarbaraca.gov/parks/mackenzie-park"
+  ],
+  "wikidata": [
+    "Q3402430"
+  ],
+  "wikipedia": [
+    "en:Presidio of Santa Barbara"
+  ],
+  "name:en": [
+    "Presidio of Santa Barbara State Historic Park"
+  ],
+  "Tiger:MTFCC": [
+    "K2180"
+  ],
+  "tiger:ALAND": [
+    "4119",
+    "20717",
+    "19412",
+    "10205",
+    "76867",
+    "3463",
+    "15333",
+    "16071",
+    "24683",
+    "2480",
+    "74255",
+    "65810",
+    "5661"
+  ],
+  "tiger:AREAID": [
+    "110809876523",
+    "110809876555",
+    "110809876635",
+    "110809876459",
+    "110809876550",
+    "110809876517",
+    "110809876502",
+    "110809876608",
+    "110809876595",
+    "110809877807",
+    "110809876506",
+    "110809876426",
+    "110809876499"
+  ],
+  "tiger:AWATER": [
+    "0",
+    "1529"
+  ],
+  "tiger:COUNTYFP": [
+    "083"
+  ],
+  "tiger:STATEFP": [
+    "06"
+  ],
+  "tiger:reviewed": [
+    "no"
+  ],
+  "addr:city": [
+    "Santa Barbara"
+  ],
+  "addr:housenumber": [
+    "600"
+  ],
+  "addr:postcode": [
+    "93105"
+  ],
+  "addr:state": [
+    "CA"
+  ],
+  "addr:street": [
+    "Willowglen Road"
+  ],
+  "operator": [
+    "City of Santa Barbara Parks and Recreation Department"
+  ],
+  "operator:type": [
+    "government"
+  ],
+  "alt_name": [
+    "City Hall Plaza"
+  ]
+}
