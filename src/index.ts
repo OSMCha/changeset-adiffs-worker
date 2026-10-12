@@ -1,6 +1,8 @@
 import parseAugmentedDiff from "@osmcha/osm-adiff-parser";
 import changetags from "./changetags.js";
 
+const USER_AGENT = "OSMCha changeset-adiffs-worker";
+
 type Environment = {
   // bindings
   readonly CHANGESET_ADIFFS: Queue;
@@ -32,6 +34,7 @@ export default {
           headers: {
             "Authorization": `Token ${env.OSMCHA_ADMIN_TOKEN}`,
             "Content-Type": "application/json",
+            "User-Agent": USER_AGENT,
           },
           body: JSON.stringify(plainChanges),
         });
